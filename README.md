@@ -3,7 +3,7 @@
 The purpose of this repo is to provide a list of micro-projects to help people with their #100DaysOfCloud
 
 Projects covered could be for:
-* Azure
+* Microsoft Azure
 * Amazon Web Services
 * Google Cloud Platform
 
