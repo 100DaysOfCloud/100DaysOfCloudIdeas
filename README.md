@@ -1,4 +1,4 @@
-# 100DaysOfCloudIdeas
+# 100DaysOfCloud Ideas
 
 The purpose of this repo is to provide a list of micro-projects to help people with their Cloud Journey.
 
@@ -10,11 +10,35 @@ The purpose of this repo is to provide a list of micro-projects to help people w
 
 ## Application Integration
 
+Application Integration are cloud services that are used to help other services or apps talk to each other.
+Messaging Systems are commonly used for Application Integration.
+
+* Messaging Queueing Service
+* Pub/Sub Messaging Service
+* Streaming Service
+* Event Bus Service
+* GraphQL Service
+* PartiQ
+* State Machine Service
+
 ## Serverless
+
+* Serverless Functions
+* Serverless Containers
+* Serverless Storage
+* Serverless NoSQL
+* Serverless SQL
 
 ## Solution Architecting
 
+* Creating an architectual diagram
+
 ## Machine Leanring
+
+* AutoML Service
+* Image Recognition Service
+* Text Extraction Service
+* Natural Langauge Processing Service
 
 ## Internet of Things
 
