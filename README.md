@@ -76,6 +76,12 @@ Messaging Systems are commonly used for Application Integration.
 
 * Platform as a Service (Just code and deploy, don't worry about infrastructure)
 
+## DevOps
+
+* Infrastructure as Code
+* Build Servers
+* Continuous Deployment
+
 ## 👔 Management and Governance
 
 * Multi-account strategy
