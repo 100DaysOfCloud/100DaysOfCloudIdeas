@@ -1,6 +1,10 @@
 # 100DaysOfCloud Ideas
 
-The purpose of this repo is to provide a list of micro-projects to help people with their Cloud Journey.
+The purpose of this repo is to provide a list of micro-projects to help people with their #100DaysOfCloud
+
+* Bart Castle [@cloudbart](https://twitter.com/cloudbart)
+* Gwyneth Peña [@madebygps](https://twitter.com/madebygps)
+* Andrew Brown [@andrewbrown](https://twitter.com/andrewbrown)
 
 ## Cloud Security
 
