@@ -1,6 +1,9 @@
 # 100DaysOfCloud Ideas
 
-The purpose of this repo is to provide a list of micro-projects to help people with their #100DaysOfCloud
+The purpose of this repo is to provide a list of micro-projects to help people with their #100DaysOfCloud Challenge.
+
+* If you want to take the challenge go to: https://100daysofcloud.com
+* The #100DaysOfCloud Challenge Template is here: https://github.com/100DaysOfCloud/100DaysOfCloud
 
 Projects covered could be for:
 * Microsoft Azure
