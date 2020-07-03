@@ -2,6 +2,8 @@
 
 The purpose of this repo is to provide a list of micro-projects to help people with their #100DaysOfCloud
 
+## Project Idea Contributors
+
 * Bart Castle [@cloudbart](https://twitter.com/cloudbart)
 * Gwyneth Peña [@madebygps](https://twitter.com/madebygps)
 * Andrew Brown [@andrewbrown](https://twitter.com/andrewbrown)
