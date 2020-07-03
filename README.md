@@ -2,6 +2,11 @@
 
 The purpose of this repo is to provide a list of micro-projects to help people with their #100DaysOfCloud
 
+Projects covered could be for:
+* Azure
+* Amazon Web Services
+* Google Cloud Platform
+
 ## 💡 Project Idea Contributors
 
 * Bart Castle [@cloudbart](https://twitter.com/cloudbart)
@@ -9,6 +14,11 @@ The purpose of this repo is to provide a list of micro-projects to help people w
 * Andrew Brown [@andrewbrown](https://twitter.com/andrewbrown)
 
 ## 🔒 Cloud Security
+
+* Hardware Security Modules (HSM)
+* Configuration and Remediation Service 
+*
+
 
 ## 🌐 Cloud Networking
 
@@ -51,6 +61,10 @@ Messaging Systems are commonly used for Application Integration.
 ## 📦 Cloud Storage
 
 ## Databases
+* Relational Database
+* NoSQL Database
+* Graph Database
+* Qauntum Database
 
 ## 🛠️ Developer Tools
 
