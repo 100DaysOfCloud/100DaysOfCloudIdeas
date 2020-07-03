@@ -2,19 +2,19 @@
 
 The purpose of this repo is to provide a list of micro-projects to help people with their #100DaysOfCloud
 
-## Project Idea Contributors
+## 💡 Project Idea Contributors
 
 * Bart Castle [@cloudbart](https://twitter.com/cloudbart)
 * Gwyneth Peña [@madebygps](https://twitter.com/madebygps)
 * Andrew Brown [@andrewbrown](https://twitter.com/andrewbrown)
 
-## Cloud Security
+## 🔒 Cloud Security
 
-## Cloud Networking
+## 🌐 Cloud Networking
 
-## Cloud Billing and Pricing
+## 🧾 Cloud Billing and Pricing
 
-## Application Integration
+## 🩹 Application Integration
 
 Application Integration are cloud services that are used to help other services or apps talk to each other.
 Messaging Systems are commonly used for Application Integration.
@@ -27,7 +27,7 @@ Messaging Systems are commonly used for Application Integration.
 * PartiQ
 * State Machine Service
 
-## Serverless
+## 🐹 Serverless
 
 * Serverless Functions
 * Serverless Containers
@@ -35,28 +35,28 @@ Messaging Systems are commonly used for Application Integration.
 * Serverless NoSQL
 * Serverless SQL
 
-## Solution Architecting
+## ✍️ Solution Architecting
 
 * Creating an architectual diagram
 
-## Machine Leanring
+## 🤖 Machine Leanring
 
 * AutoML Service
 * Image Recognition Service
 * Text Extraction Service
 * Natural Langauge Processing Service
 
-## Internet of Things
+## 📱 Internet of Things
 
-## Cloud Storage
+## 📦 Cloud Storage
 
 ## Databases
 
-## Developer Tools
+## 🛠️ Developer Tools
 
-## Management and Governance
+## 👔 Management and Governance
 
-## Multi-Cloud
+## ☁️ Multi-Cloud
 
-## Hybrid-Cloud
+## ☁️ Hybrid-Cloud
 
