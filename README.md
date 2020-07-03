@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/100DaysOfCloud/100DaysOfCloudIdeas/blob/master/banner.png?raw=true">
+</p>
+
 # 100DaysOfCloud Ideas
 
 The purpose of this repo is to provide a list of micro-projects to help people with their #100DaysOfCloud Challenge.
