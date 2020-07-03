@@ -17,10 +17,15 @@ Projects covered could be for:
 
 * Hardware Security Modules (HSM)
 * Configuration and Remediation Service 
-*
-
+* Security Development Lifecycle
+* Identity Federation
 
 ## 🌐 Cloud Networking
+
+* Classless Inter-Domain Routing (CIDR)
+* VPC Peering
+* Transfer Acceleration
+* Content Distrubition Networks (CDNs)
 
 ## 🧾 Cloud Billing and Pricing
 
@@ -48,6 +53,7 @@ Messaging Systems are commonly used for Application Integration.
 ## ✍️ Solution Architecting
 
 * Creating an architectual diagram
+* Well-Architected Framework
 
 ## 🤖 Machine Leanring
 
@@ -68,7 +74,11 @@ Messaging Systems are commonly used for Application Integration.
 
 ## 🛠️ Developer Tools
 
+* Platform as a Service (Just code and deploy, don't worry about infrastructure)
+
 ## 👔 Management and Governance
+
+* Multi-account strategy
 
 ## ☁️ Multi-Cloud
 
