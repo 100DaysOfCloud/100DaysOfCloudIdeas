@@ -2,7 +2,7 @@
   <img src="https://github.com/100DaysOfCloud/100DaysOfCloudIdeas/blob/master/banner.png?raw=true">
 </p>
 
-# 100DaysOfCloud Ideas
+# 100DaysOfCloud Ideas List
 
 The purpose of this repo is to provide a list of micro-projects to help people with their #100DaysOfCloud Challenge.
 
@@ -14,11 +14,7 @@ Projects covered could be for:
 * Amazon Web Services
 * Google Cloud Platform
 
-## 💡 Project Idea Contributors
-
-* Bart Castle [@cloudbart](https://twitter.com/cloudbart)
-* Gwyneth Peña [@madebygps](https://twitter.com/madebygps)
-* Andrew Brown [@andrewbrown](https://twitter.com/andrewbrown)
+# The Cloud Project Ideas
 
 ## 🔒 Cloud Security
 
@@ -120,3 +116,8 @@ Messaging Systems are commonly used for Application Integration.
 
 ## ☁️ Hybrid-Cloud
 
+# 💡 Project Idea Contributors
+
+* Bart Castle [@cloudbart](https://twitter.com/cloudbart)
+* Gwyneth Peña [@madebygps](https://twitter.com/madebygps)
+* Andrew Brown [@andrewbrown](https://twitter.com/andrewbrown)
