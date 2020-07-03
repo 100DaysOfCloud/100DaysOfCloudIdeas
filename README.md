@@ -23,6 +23,14 @@ Projects covered could be for:
 * Security Development Lifecycle
 * Identity Federation
 
+## Cloud Computing
+
+* Bare Metal
+* Dedicated
+* Virtual Machines
+* Containers
+* Functions
+
 ## 🌐 Cloud Networking
 
 * Classless Inter-Domain Routing (CIDR)
@@ -69,8 +77,17 @@ Messaging Systems are commonly used for Application Integration.
 
 ## 📦 Cloud Storage
 
+* Data Migration
+* Virtual SSD, HDD and Tape Drives
+* Shared File Storage Service 
+* Object Storage
+* Data Lakes
+
 ## Databases
+* OLAP vs OLTP
+* CAP Theorem
 * Relational Database
+* Sharding
 * NoSQL Database
 * Graph Database
 * Qauntum Database
@@ -84,6 +101,12 @@ Messaging Systems are commonly used for Application Integration.
 * Infrastructure as Code
 * Build Servers
 * Continuous Deployment
+
+## Big Data and Analytics
+
+* Elastic Map Reduce
+* Data Warehouses
+* Extract, Transform, Load (ETL)
 
 ## 👔 Management and Governance
 
