@@ -66,7 +66,7 @@ Messaging Systems are commonly used for Application Integration.
 * Creating an architectual diagram
 * Well-Architected Framework
 
-## 🤖 Machine Leanring
+## 🤖 Machine Learning
 
 * AutoML Service
 * Image Recognition Service
