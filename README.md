@@ -110,7 +110,7 @@ Serverless tech abstracts the need to care for the underlying infrastructure, gi
 
 ## 📱 IOT — Internet of Things
 
-- **IOT01** - Alexa Skill
+- **IOT01** - Voice-based IOT
 
 ## 📦 STR — Cloud Storage
 
