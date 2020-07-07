@@ -31,105 +31,110 @@ These are larger projects that use multiple cloud services.
 
 ## 🖥 COM — Cloud Computing
 
-* Bare Metal
-* Dedicated
-* Virtual Machines
-* Containers
-* Functions
+- **COM01** - Bare Metal
+- **COM02** - Dedicated
+- **COM03** - Virtual Machines
+- **COM04** - Containers
+- **COM05** - Functions
 
 ## 🌐 NET —  Cloud Networking
 
-* Classless Inter-Domain Routing (CIDR)
-* VPC Peering
-* Transfer Acceleration
-* Content Distribution Networks (CDNs)
+- **NET01** — Classless Inter-Domain Routing (CIDR)
+- **NET02** — VPC Peering
+- **NET03** — Transfer Acceleration
+- **NET04** — Content Distribution Networks (CDNs)
 
-## 🧾 BILL — Cloud Billing and Pricing
+## 🧾 BIL — Cloud Billing and Pricing
 
-* Billing alerts
-* Budgets
+- **BIL01** — Billing alerts
+- **BIL02** — Budgets
 
 ## 🩹 GLU — Application Integration
 
 Application Integration are cloud services that are used to help other services or apps talk to each other.
 Messaging Systems are commonly used for Application Integration.
 
-* Messaging Queueing Service
-* Pub/Sub Messaging Service
-* Streaming Service
-* Event Bus Service
-* GraphQL Service
-* PartiQ
-* State Machine Service
+- **GLU01** — Messaging Queueing Service
+- **GLU02** — Pub/Sub Messaging Service
+- **GLU03** — Streaming Service
+- **GLU04** — Event Bus Service
+- **GLU05** — GraphQL Service
+- **GLU06** — PartiQ
+- **GLU07** — State Machine Service
 
 ## 🐹 LES — Serverless
 
 Serverless tech abstracts the need to care for the underlying infrastructure, giving you more time to focus on logic.
 
-* Serverless Functions
-* Serverless Containers
-* Serverless Storage
-* Serverless NoSQL
-* Serverless SQL
+- **LES01** — Serverless Functions
+- **LES02** — Serverless Containers
+- **LES03** — Serverless Storage
+- **LES04** — Serverless NoSQL
+- **LES05** — Serverless SQL
 
 
 ## ✍️ ARC — Solution Architecting
 
-* Creating an architectural diagram
-* Well-Architected Framework
+- **ARC01** - Creating an architectural diagram
+- **ARC02** - Well-Architected Framework
 
 ## 🤖 MLS — Machine Learning
 
-* AutoML Service
-* Image Recognition Service
-* Text Extraction Service
-* Natural Language Processing Service
+- **MLS01** — AutoML Service
+- **MLS02** — Image Recognition Service
+- **MLS03** — Text Extraction Service
+- **MLS04** — Natural Language Processing Service
 
 ## 📱 IOT — Internet of Things
 
 ## 📦 STR — Cloud Storage
 
-* Data Migration
-* Virtual SSD, HDD and Tape Drives
-* Shared File Storage Service 
-* Object Storage
-* Data Lakes
+- **STR01** — Data Migration
+- **STR02** — Virtual SSD, HDD and Tape Drives
+- **STR03** — Shared File Storage Service 
+- **STR04** — Object Storage
+- **STR05** — Data Lakes
 
 ## DBS — Databases
-* OLAP vs OLTP
-* CAP Theorem
-* Relational Database
-* Sharding
-* NoSQL Database
-* Graph Database
-* Qauntum Database
+
+- **DBS01** — OLAP vs OLTP
+- **DBS02** — CAP Theorem
+- **DBS03** — Relational Database
+- **DBS04** — Sharding
+- **DBS05** — NoSQL Database
+- **DBS06** — Graph Database
+- **DBS07** — Qauntum Database
 
 ## 🛠️ DEV — Developer Tools
 
-* Platform as a Service (Just code and deploy, don't worry about infrastructure)
-* NoCode
+- **DEV01** - Platform as a Service (Just code and deploy, don't worry about infrastructure)
+- **DEV02** - NoCode Service
+- **DEV03** - Command Line Interfaces (CLI)
+- **DEV04** - Software Development Kit (SDK)
 
 ## OPS — DevOps
 
-* Infrastructure as Code
-* Build Servers
-* Continuous Deployment
-* Monitoring
-
+- **OPS01** — Infrastructure as Code
+- **OPS02** — Build Servers
+- **OPS03** — Continuous Deployment
+- **OPS04** — Monitoring
 
 ## BIG — Big Data and Analytics
 
-* Elastic Map Reduce
-* Data Warehouses
-* Extract, Transform, Load (ETL)
+- **BIG01** — Elastic Map Reduce
+- **BIG02** — Data Warehouses
+- **BIG03** — Extract, Transform, Load (ETL)
 
 ## 👔 GOV — Management and Governance
 
-* Multi-account strategy
+- **GOV01** — Multi-account strategy
 
 ## ☁️ MLT — Multi-Cloud
 
+- **MLT01** — Containers Dataplane running across multiple CSPs
+
 ## ☁️ HYR — Hybrid-Cloud
+
 
 # 💡 Project Idea Contributors
 
