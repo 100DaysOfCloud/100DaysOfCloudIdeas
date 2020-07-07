@@ -16,20 +16,20 @@ Projects covered could be for:
 
 # The Cloud Project Ideas
 
-## 🦄 Unicorn Projects
+## 🦄 UNI — Unicorn Projects
 
 These are larger projects that use multiple cloud services.
 
-* Hosting your Dev Blog [First Project Recommendations]
+- **UNI01** — Hosting your Dev Blog [First Project Recommendations]
 
-## 🔒 Cloud Security
+## 🔒 SEC — Cloud Security
 
-* Hardware Security Modules (HSM)
-* Configuration and Remediation Service 
-* Security Development Lifecycle
-* Identity Federation
+- **SEC01** — Hardware Security Modules (HSM)
+- **SEC02** — Configuration and Remediation Service 
+- **SEC03** — Security Development Lifecycle
+- **SEC04** — Identity Federation
 
-## 🖥 Cloud Computing
+## 🖥 COM — Cloud Computing
 
 * Bare Metal
 * Dedicated
@@ -37,19 +37,19 @@ These are larger projects that use multiple cloud services.
 * Containers
 * Functions
 
-## 🌐 Cloud Networking
+## 🌐 NET —  Cloud Networking
 
 * Classless Inter-Domain Routing (CIDR)
 * VPC Peering
 * Transfer Acceleration
 * Content Distribution Networks (CDNs)
 
-## 🧾 Cloud Billing and Pricing
+## 🧾 BILL — Cloud Billing and Pricing
 
 * Billing alerts
 * Budgets
 
-## 🩹 Application Integration
+## 🩹 GLU — Application Integration
 
 Application Integration are cloud services that are used to help other services or apps talk to each other.
 Messaging Systems are commonly used for Application Integration.
@@ -62,7 +62,7 @@ Messaging Systems are commonly used for Application Integration.
 * PartiQ
 * State Machine Service
 
-## 🐹 Serverless
+## 🐹 LES — Serverless
 
 Serverless tech abstracts the need to care for the underlying infrastructure, giving you more time to focus on logic.
 
@@ -73,21 +73,21 @@ Serverless tech abstracts the need to care for the underlying infrastructure, gi
 * Serverless SQL
 
 
-## ✍️ Solution Architecting
+## ✍️ ARC — Solution Architecting
 
 * Creating an architectural diagram
 * Well-Architected Framework
 
-## 🤖 Machine Learning
+## 🤖 MLS — Machine Learning
 
 * AutoML Service
 * Image Recognition Service
 * Text Extraction Service
 * Natural Language Processing Service
 
-## 📱 Internet of Things
+## 📱 IOT — Internet of Things
 
-## 📦 Cloud Storage
+## 📦 STR — Cloud Storage
 
 * Data Migration
 * Virtual SSD, HDD and Tape Drives
@@ -95,7 +95,7 @@ Serverless tech abstracts the need to care for the underlying infrastructure, gi
 * Object Storage
 * Data Lakes
 
-## Databases
+## DBS — Databases
 * OLAP vs OLTP
 * CAP Theorem
 * Relational Database
@@ -104,12 +104,12 @@ Serverless tech abstracts the need to care for the underlying infrastructure, gi
 * Graph Database
 * Qauntum Database
 
-## 🛠️ Developer Tools
+## 🛠️ DEV — Developer Tools
 
 * Platform as a Service (Just code and deploy, don't worry about infrastructure)
 * NoCode
 
-## DevOps
+## OPS — DevOps
 
 * Infrastructure as Code
 * Build Servers
@@ -117,19 +117,19 @@ Serverless tech abstracts the need to care for the underlying infrastructure, gi
 * Monitoring
 
 
-## Big Data and Analytics
+## BIG — Big Data and Analytics
 
 * Elastic Map Reduce
 * Data Warehouses
 * Extract, Transform, Load (ETL)
 
-## 👔 Management and Governance
+## 👔 GOV — Management and Governance
 
 * Multi-account strategy
 
-## ☁️ Multi-Cloud
+## ☁️ MLT — Multi-Cloud
 
-## ☁️ Hybrid-Cloud
+## ☁️ HYR — Hybrid-Cloud
 
 # 💡 Project Idea Contributors
 
