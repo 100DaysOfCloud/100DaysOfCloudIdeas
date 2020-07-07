@@ -23,7 +23,7 @@ Projects covered could be for:
 * Security Development Lifecycle
 * Identity Federation
 
-## Cloud Computing
+## 🖥 Cloud Computing
 
 * Bare Metal
 * Dedicated
@@ -36,9 +36,12 @@ Projects covered could be for:
 * Classless Inter-Domain Routing (CIDR)
 * VPC Peering
 * Transfer Acceleration
-* Content Distrubition Networks (CDNs)
+* Content Distribution Networks (CDNs)
 
 ## 🧾 Cloud Billing and Pricing
+
+* Billing alerts
+* Budgets
 
 ## 🩹 Application Integration
 
@@ -55,15 +58,18 @@ Messaging Systems are commonly used for Application Integration.
 
 ## 🐹 Serverless
 
+Serverless tech abstracts the need to care for the underlying infrastructure, giving you more time to focus on logic.
+
 * Serverless Functions
 * Serverless Containers
 * Serverless Storage
 * Serverless NoSQL
 * Serverless SQL
 
+
 ## ✍️ Solution Architecting
 
-* Creating an architectual diagram
+* Creating an architectural diagram
 * Well-Architected Framework
 
 ## 🤖 Machine Learning
@@ -71,7 +77,7 @@ Messaging Systems are commonly used for Application Integration.
 * AutoML Service
 * Image Recognition Service
 * Text Extraction Service
-* Natural Langauge Processing Service
+* Natural Language Processing Service
 
 ## 📱 Internet of Things
 
@@ -95,12 +101,15 @@ Messaging Systems are commonly used for Application Integration.
 ## 🛠️ Developer Tools
 
 * Platform as a Service (Just code and deploy, don't worry about infrastructure)
+* NoCode
 
 ## DevOps
 
 * Infrastructure as Code
 * Build Servers
 * Continuous Deployment
+* Monitoring
+
 
 ## Big Data and Analytics
 
