@@ -32,8 +32,10 @@ Projects are labeled based these four levels:
 - Level 300 (Advanced)
 - Level 400 (Expert)
 
-The goal is to provide micro-projects that can be completed in a day.
+The goal is to provide micro-projects that can be completed in minutes to hours and worst case a day.
+The difficulty generally indciates greater time commitment. 
 For more difficult projects more instruction can be provided to reduce the time commitment.
+Projects may suggest the time it takse to complete the project
 
 # The Cloud Project Ideas
 
