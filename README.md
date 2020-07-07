@@ -127,6 +127,5 @@ Serverless tech abstracts the need to care for the underlying infrastructure, gi
 
 # 💡 Project Idea Contributors
 
-* Bart Castle [@cloudbart](https://twitter.com/cloudbart)
-* Gwyneth Peña [@madebygps](https://twitter.com/madebygps)
 * Andrew Brown [@andrewbrown](https://twitter.com/andrewbrown)
+* [Contribute a project to see your name added to the list!]
