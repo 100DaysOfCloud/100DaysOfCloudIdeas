@@ -110,6 +110,8 @@ Serverless tech abstracts the need to care for the underlying infrastructure, gi
 
 ## 📱 IOT — Internet of Things
 
+- **IOT01** - Voice-based IOT
+
 ## 📦 STR — Cloud Storage
 
 - **STR01** — Data Migration
@@ -118,7 +120,7 @@ Serverless tech abstracts the need to care for the underlying infrastructure, gi
 - **STR04** — Object Storage
 - **STR05** — Data Lakes
 
-## DBS — Databases
+## 🗄 DBS — Databases
 
 - **DBS01** — OLAP vs OLTP
 - **DBS02** — CAP Theorem
@@ -135,7 +137,7 @@ Serverless tech abstracts the need to care for the underlying infrastructure, gi
 - **DEV03** - Command Line Interfaces (CLI)
 - **DEV04** - Software Development Kit (SDK)
 
-## OPS — DevOps
+## ♻️ OPS — DevOps
 
 - **OPS01** — Infrastructure as Code
 - **OPS02** — Build Servers
