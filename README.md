@@ -9,10 +9,31 @@ The purpose of this repo is to provide a list of micro-projects to help people w
 * If you want to take the challenge go to: https://100daysofcloud.com
 * The #100DaysOfCloud Challenge Template is here: https://github.com/100DaysOfCloud/100DaysOfCloud
 
+## Contributing to this project list:
+
+You can propose a cloud project by opening a [ticket 🎟️](https://github.com/100DaysOfCloud/100DaysOfCloudIdeas/issues/new?assignees=&labels=&template=cloud-project-idea.md&title=)
+
+## Which Cloud Service Providers?
+
 Projects covered could be for:
 * Microsoft Azure
 * Amazon Web Services
 * Google Cloud Platform
+
+We aren't limited to the big three, but thats where you'll see the most examples since IaaS have the most cloud offerings.
+We may be weary of third-party cloud services since the goal of these projects is to learn a concept first and a product last.
+
+## What is the difficult and time commitment for these projects?
+
+Projects are labeled based these four levels:
+
+- Level 100 (Introductory)
+- Level 200 (Intermediate)
+- Level 300 (Advanced)
+- Level 400 (Expert)
+
+The goal is to provide micro-projects that can be completed in a day.
+For more difficult projects more instruction can be provided to reduce the time commitment.
 
 # The Cloud Project Ideas
 
