@@ -16,6 +16,12 @@ Projects covered could be for:
 
 # The Cloud Project Ideas
 
+## 🦄 Unicorn Projects
+
+These are larger projects that use multiple cloud services.
+
+* Hosting your Dev Blog [First Project Recommendations]
+
 ## 🔒 Cloud Security
 
 * Hardware Security Modules (HSM)
