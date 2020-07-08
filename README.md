@@ -11,7 +11,8 @@ The purpose of this repo is to provide a list of micro-projects to help people w
 
 ## Contributing to this project list:
 
-You can propose a cloud project by opening a [ticket 🎟️](https://github.com/100DaysOfCloud/100DaysOfCloudIdeas/issues/new?assignees=&labels=&template=cloud-project-idea.md&title=)
+* You can propose a cloud project by opening a [ticket 🎟️](https://github.com/100DaysOfCloud/100DaysOfCloudIdeas/issues/new?assignees=&labels=&template=cloud-project-idea.md&title=)
+* You need to use our [Project Template](Templates/PROJECT-TEMPLATE.md) and submit it as a pull request.
 
 ## Which Cloud Service Providers?
 
