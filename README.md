@@ -73,7 +73,7 @@ These are larger projects that use multiple cloud services.
 
 ## 🧾 BIL — Cloud Billing and Pricing
 
-## **BIL01** — Billing alerts
+### **BIL01** — Billing alerts
 
 This micro-project is all about avoiding overbilling due to misconfuguration.
 
