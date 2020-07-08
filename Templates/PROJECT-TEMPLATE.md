@@ -9,7 +9,7 @@
 
 
 ## Cloud Service Provider
-✍️ [You need to choose a cloud single provider, unless your project is multi-cloud]
+✍️ [You need to choose a single cloud provider, unless your project is multi-cloud]
 - Microsoft Azure
 - Amazon Web Services
 - Google Cloud
