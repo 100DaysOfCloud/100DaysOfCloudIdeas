@@ -73,9 +73,13 @@ These are larger projects that use multiple cloud services.
 
 ## 🧾 BIL — Cloud Billing and Pricing
 
-- **BIL01** — Billing alerts
+## **BIL01** — Billing alerts
 
-| Challenge Code | Challenge Name | Difficulty | CSP | Author(s) |
+This micro-project is all about avoiding overbilling due to misconfuguration.
+
+> ⭐ BIL01 is recommended as a good first-time project
+
+| Project Code | Project Name | Difficulty | CSP | Author(s) |
 |---|---|---|---|---|
 | BIL01-AWS100 | [Create three Billing Alarms](BIL/BIL01/BIL01-AWS100.md) | Level 100 | AWS | [Chris Nagy](https://twitter.com/chris_the_nagy) |
 | BIL01-AZ100 | [Create two types of Cost Alerts](BIL/BIL01/BIL01-AZ100.md) | Level 100 | Azure | [Gwyneth Peña S.](https://twitter.com/madebygps) |
