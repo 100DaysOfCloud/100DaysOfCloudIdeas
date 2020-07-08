@@ -178,6 +178,11 @@ Serverless tech abstracts the need to care for the underlying infrastructure, gi
 
 ## ☁️ HYR — Hybrid-Cloud
 
+## 🤖 BOT — Robots 
+
+— **BOT01** Robot Simulation
+— **BOT02** Autonomous Driving Simulation=
+- **BOT03** Fleet Management
 
 # 💡 Project Idea Contributors
 
