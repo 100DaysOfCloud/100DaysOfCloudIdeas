@@ -9,7 +9,7 @@
 
 
 ## Cloud Service Provider
-✍️ [You need to choose a cloud single provider, unless you project is multi-cloud]
+✍️ [You need to choose a cloud single provider, unless your project is multi-cloud]
 - Microsoft Azure
 - Amazon Web Services
 - Google Cloud
@@ -42,6 +42,6 @@
 
 ## Tips
 ✍️  Provide any _gotchas_ that are crucial to know.
-✍️  Proive any possible unexpected chargess, or awareness around default expenesive options
-✍️  Provide small technical details that be huge time-sinks
+✍️  Provide any possible unexpected charges, or awareness around default expensive options.
+✍️  Provide small technical details that would be huge time-sinks.
 ✍️  If there are none of the above please omit the tips section.
