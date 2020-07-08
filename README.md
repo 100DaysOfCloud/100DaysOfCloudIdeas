@@ -73,7 +73,7 @@ These are larger projects that use multiple cloud services.
 
 ## 🧾 BIL — Cloud Billing and Pricing
 
-- **BIL01** — Billing alerts
+- [**BIL01** — Billing alerts](BIL__Cloud-Billing-and-Pricing/BIL01__Billing-alerts.md)
 - **BIL02** — Budgets
   - Azure Learn module: [Analyze costs and create budgets with Azure Cost Management](https://docs.microsoft.com/en-us/learn/modules/analyze-costs-create-budgets-azure-cost-management/)
 
