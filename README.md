@@ -80,7 +80,7 @@ This micro-project is all about avoiding overbilling due to misconfuguration.
 > ⭐ BIL01 is recommended as a good first-time project
 
 | Project Code | Project Details | Difficulty | CSP | Author(s) |
-|---|---|---|---|---|
+|:--|:--|:--|:--|:--|
 | BIL01-AWS100 | [Create three Billing Alarms](BIL/BIL01/BIL01-AWS100.md) | Level 100 | AWS | [Chris Nagy](https://twitter.com/chris_the_nagy) |
 | BIL01-AZ100 | [Create two types of Cost Alerts](BIL/BIL01/BIL01-AZ100.md) | Level 100 | Azure | [Gwyneth Peña S.](https://twitter.com/madebygps) |
 | BIL01-GCP100 | [Create three Budget Alerts](BIL/BIL01/BIL01-GCP100.md) | Level 100 | GCP | [Andrew Brown](https://twitter.com/andrewbrown) |
