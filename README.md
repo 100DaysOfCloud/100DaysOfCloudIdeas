@@ -57,20 +57,25 @@ These are larger projects that use multiple cloud services.
 - **COM01** - Bare Metal
 - **COM02** - Dedicated
 - **COM03** - Virtual Machines
+  - Azure Learn module: [Create a Windows virtual machine in Azure](https://docs.microsoft.com/en-us/learn/modules/create-windows-virtual-machine-in-azure/)
 - **COM04** - Containers
+  - Azure Learn module: [Deploy and run a containerized web app with Azure App Service](https://docs.microsoft.com/en-us/learn/modules/deploy-run-container-app-service/)
 - **COM05** - Functions
 
 ## 🌐 NET —  Cloud Networking
 
 - **NET01** — Classless Inter-Domain Routing (CIDR)
 - **NET02** — VPC Peering
+  - Azure Learn module: [Distribute your services across Azure virtual networks and integrate them by using virtual network peering](https://docs.microsoft.com/en-us/learn/modules/integrate-vnets-with-vnet-peering/)
 - **NET03** — Transfer Acceleration
 - **NET04** — Content Distribution Networks (CDNs)
+  - Azure Learn module: [Create a Content Delivery Network for your Website with Azure CDN and Blob Services](https://docs.microsoft.com/en-us/learn/modules/create-cdn-static-resources-blob-storage/)
 
 ## 🧾 BIL — Cloud Billing and Pricing
 
 - **BIL01** — Billing alerts
 - **BIL02** — Budgets
+  - Azure Learn module: [Analyze costs and create budgets with Azure Cost Management](https://docs.microsoft.com/en-us/learn/modules/analyze-costs-create-budgets-azure-cost-management/)
 
 ## 🩹 GLU — Application Integration
 
@@ -164,4 +169,5 @@ Serverless tech abstracts the need to care for the underlying infrastructure, gi
 # 💡 Project Idea Contributors
 
 * Andrew Brown [@andrewbrown](https://twitter.com/andrewbrown)
+* Gwyneth Peña S. [@madebygps](https://twitter.com/madebygps)
 * [Contribute a project to see your name added to the list!]
