@@ -6,7 +6,7 @@
 ## Difficulty
 Level 100 (Introductory)
 
-## Challenge Author(s)
+## Project's Author(s)
 * [Chris Nagy](https://twitter.com/chris_the_nagy)
 
 ## Objectives
