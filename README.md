@@ -2,121 +2,172 @@
   <img src="https://github.com/100DaysOfCloud/100DaysOfCloudIdeas/blob/master/banner.png?raw=true">
 </p>
 
-# 100DaysOfCloud Ideas
+# 100DaysOfCloud Ideas List
 
 The purpose of this repo is to provide a list of micro-projects to help people with their #100DaysOfCloud Challenge.
 
 * If you want to take the challenge go to: https://100daysofcloud.com
 * The #100DaysOfCloud Challenge Template is here: https://github.com/100DaysOfCloud/100DaysOfCloud
 
+## Contributing to this project list:
+
+You can propose a cloud project by opening a [ticket 🎟️](https://github.com/100DaysOfCloud/100DaysOfCloudIdeas/issues/new?assignees=&labels=&template=cloud-project-idea.md&title=)
+
+## Which Cloud Service Providers?
+
 Projects covered could be for:
 * Microsoft Azure
 * Amazon Web Services
 * Google Cloud Platform
 
-## 💡 Project Idea Contributors
+We aren't limited to the big three, but thats where you'll see the most examples since IaaS have the most cloud offerings.
+We may be weary of third-party cloud services since the goal of these projects is to learn a concept first and a product last.
 
-* Bart Castle [@cloudbart](https://twitter.com/cloudbart)
-* Gwyneth Peña [@madebygps](https://twitter.com/madebygps)
-* Andrew Brown [@andrewbrown](https://twitter.com/andrewbrown)
+## What is the difficult and time commitment for these projects?
 
-## 🔒 Cloud Security
+Projects are labeled based these four levels:
 
-* Hardware Security Modules (HSM)
-* Configuration and Remediation Service 
-* Security Development Lifecycle
-* Identity Federation
+- Level 100 (Introductory)
+- Level 200 (Intermediate)
+- Level 300 (Advanced)
+- Level 400 (Expert)
 
-## Cloud Computing
+The goal is to provide micro-projects that can be completed in minutes to hours and worst case a day.
+The difficulty generally indciates greater time commitment. 
+For more difficult projects more instruction can be provided to reduce the time commitment.
+Projects may suggest the time it takse to complete the project
 
-* Bare Metal
-* Dedicated
-* Virtual Machines
-* Containers
-* Functions
+# The Cloud Project Ideas
 
-## 🌐 Cloud Networking
+## 🦄 UNI — Unicorn Projects
 
-* Classless Inter-Domain Routing (CIDR)
-* VPC Peering
-* Transfer Acceleration
-* Content Distrubition Networks (CDNs)
+These are larger projects that use multiple cloud services.
 
-## 🧾 Cloud Billing and Pricing
+- **UNI01** — Hosting your Dev Blog [First Project Recommendations]
 
-## 🩹 Application Integration
+## 🔒 SEC — Cloud Security
+
+- **SEC01** — Hardware Security Modules (HSM)
+- **SEC02** — Configuration and Remediation Service 
+- **SEC03** — Security Development Lifecycle
+- **SEC04** — Identity Federation
+
+## 🖥 COM — Cloud Computing
+
+- **COM01** - Bare Metal
+- **COM02** - Dedicated
+- **COM03** - Virtual Machines
+  - Azure Learn module: [Create a Windows virtual machine in Azure](https://docs.microsoft.com/en-us/learn/modules/create-windows-virtual-machine-in-azure/)
+- **COM04** - Containers
+  - Azure Learn module: [Deploy and run a containerized web app with Azure App Service](https://docs.microsoft.com/en-us/learn/modules/deploy-run-container-app-service/)
+- **COM05** - Functions
+
+## 🌐 NET —  Cloud Networking
+
+- **NET01** — Classless Inter-Domain Routing (CIDR)
+- **NET02** — VPC Peering
+  - Azure Learn module: [Distribute your services across Azure virtual networks and integrate them by using virtual network peering](https://docs.microsoft.com/en-us/learn/modules/integrate-vnets-with-vnet-peering/)
+- **NET03** — Transfer Acceleration
+- **NET04** — Content Distribution Networks (CDNs)
+  - Azure Learn module: [Create a Content Delivery Network for your Website with Azure CDN and Blob Services](https://docs.microsoft.com/en-us/learn/modules/create-cdn-static-resources-blob-storage/)
+
+## 🧾 BIL — Cloud Billing and Pricing
+
+- **BIL01** — Billing alerts
+- **BIL02** — Budgets
+  - Azure Learn module: [Analyze costs and create budgets with Azure Cost Management](https://docs.microsoft.com/en-us/learn/modules/analyze-costs-create-budgets-azure-cost-management/)
+
+## 🩹 GLU — Application Integration
 
 Application Integration are cloud services that are used to help other services or apps talk to each other.
 Messaging Systems are commonly used for Application Integration.
 
-* Messaging Queueing Service
-* Pub/Sub Messaging Service
-* Streaming Service
-* Event Bus Service
-* GraphQL Service
-* PartiQ
-* State Machine Service
+- **GLU01** — Messaging Queueing Service
+- **GLU02** — Pub/Sub Messaging Service
+- **GLU03** — Streaming Service
+- **GLU04** — Event Bus Service
+- **GLU05** — GraphQL Service
+- **GLU06** — PartiQ
+- **GLU07** — State Machine Service
 
-## 🐹 Serverless
+## 🐹 LES — Serverless
 
-* Serverless Functions
-* Serverless Containers
-* Serverless Storage
-* Serverless NoSQL
-* Serverless SQL
+Serverless tech abstracts the need to care for the underlying infrastructure, giving you more time to focus on logic.
 
-## ✍️ Solution Architecting
+- **LES01** — Serverless Functions
+- **LES02** — Serverless Containers
+- **LES03** — Serverless Storage
+- **LES04** — Serverless NoSQL
+- **LES05** — Serverless SQL
 
-* Creating an architectual diagram
-* Well-Architected Framework
 
-## 🤖 Machine Leanring
+## ✍️ ARC — Solution Architecting
 
-* AutoML Service
-* Image Recognition Service
-* Text Extraction Service
-* Natural Langauge Processing Service
+- **ARC01** - Creating an architectural diagram
+- **ARC02** - Well-Architected Framework
 
-## 📱 Internet of Things
+## 🤖 MLS — Machine Learning
 
-## 📦 Cloud Storage
+- **MLS01** — AutoML Service
+- **MLS02** — Image Recognition Service
+- **MLS03** — Text Extraction Service
+- **MLS04** — Natural Language Processing Service
 
-* Data Migration
-* Virtual SSD, HDD and Tape Drives
-* Shared File Storage Service 
-* Object Storage
-* Data Lakes
+## 📱 IOT — Internet of Things
 
-## Databases
-* OLAP vs OLTP
-* CAP Theorem
-* Relational Database
-* Sharding
-* NoSQL Database
-* Graph Database
-* Qauntum Database
+- **IOT01** - Voice-based IOT
 
-## 🛠️ Developer Tools
+## 📦 STR — Cloud Storage
 
-* Platform as a Service (Just code and deploy, don't worry about infrastructure)
+- **STR01** — Data Migration
+- **STR02** — Virtual SSD, HDD and Tape Drives
+- **STR03** — Shared File Storage Service 
+- **STR04** — Object Storage
+- **STR05** — Data Lakes
 
-## DevOps
+## 🗄 DBS — Databases
 
-* Infrastructure as Code
-* Build Servers
-* Continuous Deployment
+- **DBS01** — OLAP vs OLTP
+- **DBS02** — CAP Theorem
+- **DBS03** — Relational Database
+- **DBS04** — Sharding
+- **DBS05** — NoSQL Database
+- **DBS06** — Graph Database
+- **DBS07** — Qauntum Database
 
-## Big Data and Analytics
+## 🛠️ DEV — Developer Tools
 
-* Elastic Map Reduce
-* Data Warehouses
-* Extract, Transform, Load (ETL)
+- **DEV01** - Platform as a Service (Just code and deploy, don't worry about infrastructure)
+- **DEV02** - NoCode Service
+- **DEV03** - Command Line Interfaces (CLI)
+- **DEV04** - Software Development Kit (SDK)
 
-## 👔 Management and Governance
+## ♻️ OPS — DevOps
 
-* Multi-account strategy
+- **OPS01** — Infrastructure as Code
+- **OPS02** — Build Servers
+- **OPS03** — Continuous Deployment
+- **OPS04** — Monitoring
 
-## ☁️ Multi-Cloud
+## BIG — Big Data and Analytics
 
-## ☁️ Hybrid-Cloud
+- **BIG01** — Elastic Map Reduce
+- **BIG02** — Data Warehouses
+- **BIG03** — Extract, Transform, Load (ETL)
 
+## 👔 GOV — Management and Governance
+
+- **GOV01** — Multi-account strategy
+
+## ☁️ MLT — Multi-Cloud
+
+- **MLT01** — Containers Dataplane running across multiple CSPs
+
+## ☁️ HYR — Hybrid-Cloud
+
+
+# 💡 Project Idea Contributors
+
+* Andrew Brown [@andrewbrown](https://twitter.com/andrewbrown)
+* Gwyneth Peña S. [@madebygps](https://twitter.com/madebygps)
+* [Contribute a project to see your name added to the list!]
