@@ -23,7 +23,7 @@ Projects covered could be for:
 We aren't limited to the big three, but thats where you'll see the most examples since IaaS have the most cloud offerings.
 We may be weary of third-party cloud services since the goal of these projects is to learn a concept first and a product last.
 
-## What is the difficult and time commitment for these projects?
+## What is the difficulty and time commitment for these projects?
 
 Projects are labeled based these four levels:
 
