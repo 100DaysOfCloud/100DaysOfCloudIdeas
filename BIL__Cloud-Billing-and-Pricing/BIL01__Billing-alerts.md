@@ -1,4 +1,4 @@
-## Cloud Billing
+# Cloud Billing and Pricing — Billing Alerts
 
 ## Amazon Web Services (AWS)
 
