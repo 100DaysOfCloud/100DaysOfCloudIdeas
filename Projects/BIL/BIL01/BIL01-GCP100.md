@@ -4,6 +4,12 @@
 
 * Google Cloud Platform (GCP)
 
+## Difficulty
+Level 100 (Introductory)
+
+## Project's Author(s)
+* [Andrew Brown](https://twitter.com/andrewbrown)
+
 ## Objectives
 
 ###  You need to answer the following: 
