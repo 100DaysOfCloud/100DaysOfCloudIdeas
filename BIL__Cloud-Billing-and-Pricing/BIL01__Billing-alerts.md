@@ -7,15 +7,18 @@
 #### Difficulty
 Level 100 (Introductory)
 
+#### Challenge Author(s)
+* [Chris Nagy](https://twitter.com/chris_the_nagy)
+
 #### Objectives
 
-####  You need to complete the following:
+#####  You need to complete the following:
 
 * Create a billing alarm for $5
 * Create a billing alarm for $25
 * Create a billing alarm for $100
 
-####  You need to answer the following: 
+#####  You need to answer the following: 
 
 * How many billing alarms do you get for free?
 * When a billing alarm is triggered how will you know?
@@ -32,6 +35,9 @@ Level 100 (Introductory)
 
 #### Difficulty
 Level 100 (Introductory)
+
+#### Project's Author(s)
+* [Gwyneth Peña S.](https://twitter.com/madebygps)
 
 #### You need to complete the following:
 
@@ -52,6 +58,7 @@ Level 100 (Introductory)
 ## Google Cloud Platform (GCP)
 
 ### BIL01-GCP100 — Create three Budget Alerts
+
 
 ####  You need to answer the following: 
 
