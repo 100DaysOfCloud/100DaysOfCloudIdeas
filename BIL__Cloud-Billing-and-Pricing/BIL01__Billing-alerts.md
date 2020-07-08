@@ -51,7 +51,7 @@ Level 100 (Introductory)
 
 ## Google Cloud Platform (GCP)
 
-### BIL01-AZ100 — Create three Budget Alerts
+### BIL01-GCP100 — Create three Budget Alerts
 
 ####  You need to answer the following: 
 
