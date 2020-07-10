@@ -34,9 +34,9 @@ Projects are labeled based these four levels:
 - Level 400 (Expert)
 
 The goal is to provide micro-projects that can be completed in minutes to hours and worst case a day.
-The difficulty generally indciates greater time commitment. 
+The difficulty generally indicates greater time commitment. 
 For more difficult projects more instruction can be provided to reduce the time commitment.
-Projects may suggest the time it takse to complete the project
+Projects may suggest the time it takes to complete the project
 
 # The Cloud Project Ideas
 
@@ -76,7 +76,7 @@ These are larger projects that use multiple cloud services.
 
 ### **BIL01** — Billing alerts
 
-This micro-project is all about avoiding overbilling due to misconfuguration.
+This micro-project is all about avoiding overbilling due to misconfiguration.
 
 > ⭐ BIL01 is recommended as a good first-time project
 
@@ -86,10 +86,18 @@ This micro-project is all about avoiding overbilling due to misconfuguration.
 | BIL01-AZ100 | [Create two types of Cost Alerts](Projects/BIL/BIL01/BIL01-AZ100.md) | Level 100 | Azure | [Gwyneth Peña S.](https://twitter.com/madebygps) |
 | BIL01-GCP100 | [Create three Budget Alerts](Projects/BIL/BIL01/BIL01-GCP100.md) | Level 100 | GCP | [Andrew Brown](https://twitter.com/andrewbrown) |
 
+### **BIL02** — Budgets
 
+This micro-project is all about avoiding overbilling due to misconfiguration.
 
-- **BIL02** — Budgets
-  - Azure Learn module: [Analyze costs and create budgets with Azure Cost Management](https://docs.microsoft.com/en-us/learn/modules/analyze-costs-create-budgets-azure-cost-management/)
+> ⭐ BIL02 is recommended as a good first-time project
+
+| Project Code | Project Details | Difficulty | CSP | Author(s) |
+|:--|:--|:--|:--|:--|
+| BIL02-AWS100 | | Level 100 | AWS | |
+| BIL02-AZ100 | [Create budgets](Projects/BIL/BIL02/BIL02-AZ100.md) | Level 100 | Azure | [Gwyneth Peña S.](https://twitter.com/madebygps) |
+| BIL02-GCP100 | | Level 100 | GCP |  |
+
 
 ## 🩹 GLU — Application Integration
 
