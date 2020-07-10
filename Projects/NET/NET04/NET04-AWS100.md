@@ -1,4 +1,4 @@
-# BIL01-AWS100 — Create three Billing Alarms
+# NET04-AWS100 — Create three Billing Alarms
 
 ## Cloud Service Provider
 * Amazon Web Services (AWS)
