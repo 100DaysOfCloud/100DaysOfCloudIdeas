@@ -37,5 +37,5 @@
 - [AWS Auto Scaling FAQs](https://aws.amazon.com/autoscaling/faqs/)
 
 ## Tips
-- Use t2.small instances for the Auto Scaling Group to avoid unexpected charges.
+- Use t2.micro instances for the Auto Scaling Group to avoid unexpected charges.
 - Don't panic if the instances always come back after you delete them, there's a reason for that.
