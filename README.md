@@ -54,7 +54,7 @@ These are larger projects that use multiple cloud services.
 | Project Code | Project Details | Difficulty | CSP | Author(s) |
 |:--|:--|:--|:--|:--|
 | SEC01-AWS100 | | Level 100 | AWS | |
-| SEC01-AZ300 | [Deploying HSMs into an existing virtual network](Projects/SEC/SEC01/SEC01-AZ300.md) | Level 300 | Azure | [Gwyneth Peña S.](https://twitter.com/madebygps) |
+| SEC01-AZ200 | [Deploying HSMs into an existing virtual network](Projects/SEC/SEC01/SEC01-AZ200.md) | Level 200 | Azure | [Gwyneth Peña S.](https://twitter.com/madebygps) |
 | SEC01-GCP100 | | Level 100 | GCP |  |
 
 ### **SEC02** — Configuration and Remediation Service 
@@ -156,7 +156,7 @@ These are larger projects that use multiple cloud services.
 | Project Code | Project Details | Difficulty | CSP | Author(s) |
 |:--|:--|:--|:--|:--|
 | NET04-AWS100 | | Level 100 | AWS | |
-| NET04-AZ100 | [Deploying HSMs into an existing virtual network](Projects/NET/NET04/NET04-AZ100.md) | Level 100 | Azure | [Gwyneth Peña S.](https://twitter.com/madebygps) |
+| NET04-AZ100 | | Level 100 | Azure |  |
 | NET04-GCP100 | | Level 100 | GCP |  |
 
 
