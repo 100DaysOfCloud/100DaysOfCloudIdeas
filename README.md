@@ -41,6 +41,27 @@ Projects may suggest the time it takes to complete the project
 
 # The Cloud Project Ideas
 
+- [UNI — Unicorn Projects](#-uni--unicorn-projects)
+- [SEC — Cloud Security](#-sec--cloud-security)
+- [COM — Cloud Computing](#-com--cloud-computing)
+- [NET — Cloud Networking](#-net---cloud-networking)
+- [BIL — Cloud Billing and Pricing](#-bil--cloud-billing-and-pricing)
+- [GLU — Application Integration](#-glu--application-integration)
+- [LES — Serverless](#-les--serverless)
+- [ARC — Solution Architecting](#%EF%B8%8F-arc--solution-architecting)
+- [MLS — Machine Learning](#-mls--machine-learning)
+- [IOT — Internet of Things](#-iot--internet-of-things)
+- [STR — Cloud Storage](#-str--cloud-storage)
+- [DBS — Databases](#-dbs--databases)
+- [DEV — Developer Tools](#%EF%B8%8F-dev--developer-tools)
+- [OPS — DevOps](#%EF%B8%8F-ops--devops)
+- [BIG — Big Data and Analytics](#big--big-data-and-analytics)
+- [GOV — Management and Governance](#-gov--management-and-governance)
+- [MLT — Multi-Cloud](#%EF%B8%8F-mlt--multi-cloud)
+- [HYR — Hybrid-Cloud](#%EF%B8%8F-hyr--hybrid-cloud)
+- [BOT — Robots](#-bot--robots)
+- [LOW — Low/No Code](#low--lowno-code)
+
 ## 🦄 UNI — Unicorn Projects
 
 These are larger projects that use multiple cloud services.
