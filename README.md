@@ -124,7 +124,7 @@ These are larger projects that use multiple cloud services.
 
 | Project Code | Project Details | Difficulty | CSP | Author(s) |
 |:--|:--|:--|:--|:--|
-| COM03-AWS100 | | Level 100 | AWS |  |
+| COM03-AWS200 | [Create an Auto Scaling Group](Projects/COM/COM03/COM03-AWS200.md) | Level 200 | AWS | [Chris Nagy](https://twitter.com/chris_the_nagy) |
 | COM03-AZ100 | | Level 100 | Azure | |
 | COM03-GCP100 | | Level 100 | GCP | |
 
