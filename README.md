@@ -617,6 +617,17 @@ Serverless tech abstracts the need to care for the underlying infrastructure, gi
 | BOT03-AZ100 | | Level 100 | Azure | |
 | BOT03-GCP100 | | Level 100 | GCP |  |
 
+## **LOW **  Low/No Code
+
+### **LOW** No-Code Apps
+
+| Project Code | Project Details | Difficulty | CSP | Author(s) |
+|:--|:--|:--|:--|:--|
+| LOW01-AWS100 | Create an app with Honeycode | Level 100 | AWS |  |
+| LOW01-AZ100 | Create an app with PowerApps | Level 100 | Azure | |
+| LOW01-GCP100 | Create an app with AppSheet | Level 100 | GCP |  |
+
+
 
 # 💡 Project Idea Contributors
 
