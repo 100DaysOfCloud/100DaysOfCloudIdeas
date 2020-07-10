@@ -617,7 +617,7 @@ Serverless tech abstracts the need to care for the underlying infrastructure, gi
 | BOT03-AZ100 | | Level 100 | Azure | |
 | BOT03-GCP100 | | Level 100 | GCP |  |
 
-## **LOW **  Low/No Code
+## **LOW** — Low/No Code
 
 ### **LOW** No-Code Apps
 
