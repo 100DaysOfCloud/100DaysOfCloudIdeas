@@ -53,33 +53,33 @@ These are larger projects that use multiple cloud services.
 
 | Project Code | Project Details | Difficulty | CSP | Author(s) |
 |:--|:--|:--|:--|:--|
-| SEC01-AWS100 | | Level 100 | AWS | [Chris Nagy](https://twitter.com/chris_the_nagy) |
+| SEC01-AWS100 | | Level 100 | AWS | |
 | SEC01-AZ300 | [Deploying HSMs into an existing virtual network](Projects/SEC/SEC01/SEC01-AZ300.md) | Level 300 | Azure | [Gwyneth Peña S.](https://twitter.com/madebygps) |
-| SEC01-GCP100 | | Level 100 | GCP | [Andrew Brown](https://twitter.com/andrewbrown) |
+| SEC01-GCP100 | | Level 100 | GCP |  |
 
 ### **SEC02** — Configuration and Remediation Service 
 
 | Project Code | Project Details | Difficulty | CSP | Author(s) |
 |:--|:--|:--|:--|:--|
-| SEC02-AWS100 | | Level 100 | AWS | [Chris Nagy](https://twitter.com/chris_the_nagy) |
-| SEC02-AZ100 | | Level 100 | Azure | [Gwyneth Peña S.](https://twitter.com/madebygps) |
-| SEC02-GCP100 | | Level 100 | GCP | [Andrew Brown](https://twitter.com/andrewbrown) |
+| SEC02-AWS100 | | Level 100 | AWS |  |
+| SEC02-AZ100 | | Level 100 | Azure |  |
+| SEC02-GCP100 | | Level 100 | GCP |  |
 
 ### **SEC03** — Security Development Lifecycle
 
 | Project Code | Project Details | Difficulty | CSP | Author(s) |
 |:--|:--|:--|:--|:--|
-| SEC03-AWS100 | | Level 100 | AWS | [Chris Nagy](https://twitter.com/chris_the_nagy) |
-| SEC03-AZ100 | | Level 100 | Azure | [Gwyneth Peña S.](https://twitter.com/madebygps) |
-| SEC03-GCP100 | | Level 100 | GCP | [Andrew Brown](https://twitter.com/andrewbrown) |
+| SEC03-AWS100 | | Level 100 | AWS | |
+| SEC03-AZ100 | | Level 100 | Azure |  |
+| SEC03-GCP100 | | Level 100 | GCP |  |
 
 ### **SEC04** — Identity Federation
 
 | Project Code | Project Details | Difficulty | CSP | Author(s) |
 |:--|:--|:--|:--|:--|
-| SEC04-AWS100 | | Level 100 | AWS | [Chris Nagy](https://twitter.com/chris_the_nagy) |
-| SEC04-AZ100 | | Level 100 | Azure | [Gwyneth Peña S.](https://twitter.com/madebygps) |
-| SEC04-GCP100 | | Level 100 | GCP | [Andrew Brown](https://twitter.com/andrewbrown) |
+| SEC04-AWS100 | | Level 100 | AWS |  |
+| SEC04-AZ100 | | Level 100 | Azure | |
+| SEC04-GCP100 | | Level 100 | GCP | |
 
 ## 🖥 COM — Cloud Computing
 
@@ -87,42 +87,42 @@ These are larger projects that use multiple cloud services.
 
 | Project Code | Project Details | Difficulty | CSP | Author(s) |
 |:--|:--|:--|:--|:--|
-| COM01-AWS100 | | Level 100 | AWS | [Chris Nagy](https://twitter.com/chris_the_nagy) |
-| COM01-AZ100 | | Level 100 | Azure | [Gwyneth Peña S.](https://twitter.com/madebygps) |
-| COM01-GCP100 | | Level 100 | GCP | [Andrew Brown](https://twitter.com/andrewbrown) |
+| COM01-AWS100 | | Level 100 | AWS | |
+| COM01-AZ100 | | Level 100 | Azure | |
+| COM01-GCP100 | | Level 100 | GCP | |
 
 ### **COM02** - Dedicated
 
 | Project Code | Project Details | Difficulty | CSP | Author(s) |
 |:--|:--|:--|:--|:--|
-| COM02-AWS100 | | Level 100 | AWS | [Chris Nagy](https://twitter.com/chris_the_nagy) |
-| COM02-AZ100 | | Level 100 | Azure | [Gwyneth Peña S.](https://twitter.com/madebygps) |
-| COM02-GCP100 | | Level 100 | GCP | [Andrew Brown](https://twitter.com/andrewbrown) |
+| COM02-AWS100 | | Level 100 | AWS | |
+| COM02-AZ100 | | Level 100 | Azure | |
+| COM02-GCP100 | | Level 100 | GCP | |
 
 ### **COM03** - Virtual Machines
 
 | Project Code | Project Details | Difficulty | CSP | Author(s) |
 |:--|:--|:--|:--|:--|
-| COM03-AWS100 | | Level 100 | AWS | [Chris Nagy](https://twitter.com/chris_the_nagy) |
-| COM03-AZ100 | | Level 100 | Azure | [Gwyneth Peña S.](https://twitter.com/madebygps) |
-| COM03-GCP100 | | Level 100 | GCP | [Andrew Brown](https://twitter.com/andrewbrown) |
+| COM03-AWS100 | | Level 100 | AWS |  |
+| COM03-AZ100 | | Level 100 | Azure | |
+| COM03-GCP100 | | Level 100 | GCP | |
 
 
 ### **COM04** - Containers
 
 | Project Code | Project Details | Difficulty | CSP | Author(s) |
 |:--|:--|:--|:--|:--|
-| COM04-AWS100 | | Level 100 | AWS | [Chris Nagy](https://twitter.com/chris_the_nagy) |
-| COM04-AZ100 | | Level 100 | Azure | [Gwyneth Peña S.](https://twitter.com/madebygps) |
-| COM04-GCP100 | | Level 100 | GCP | [Andrew Brown](https://twitter.com/andrewbrown) |
+| COM04-AWS100 | | Level 100 | AWS | |
+| COM04-AZ100 | | Level 100 | Azure |  |
+| COM04-GCP100 | | Level 100 | GCP |  |
 
 ### **COM05** - Functions
 
 | Project Code | Project Details | Difficulty | CSP | Author(s) |
 |:--|:--|:--|:--|:--|
-| COM05-AWS100 | | Level 100 | AWS | [Chris Nagy](https://twitter.com/chris_the_nagy) |
-| COM05-AZ100 | | Level 100 | Azure | [Gwyneth Peña S.](https://twitter.com/madebygps) |
-| COM05-GCP100 | | Level 100 | GCP | [Andrew Brown](https://twitter.com/andrewbrown) |
+| COM05-AWS100 | | Level 100 | AWS |  |
+| COM05-AZ100 | | Level 100 | Azure ||
+| COM05-GCP100 | | Level 100 | GCP | |
 
 
 ## 🌐 NET —  Cloud Networking
@@ -131,26 +131,26 @@ These are larger projects that use multiple cloud services.
 
 | Project Code | Project Details | Difficulty | CSP | Author(s) |
 |:--|:--|:--|:--|:--|
-| NET01-AWS100 | | Level 100 | AWS | [Chris Nagy](https://twitter.com/chris_the_nagy) |
-| NET01-AZ100 | | Level 100 | Azure | [Gwyneth Peña S.](https://twitter.com/madebygps) |
-| NET01-GCP100 | | Level 100 | GCP | [Andrew Brown](https://twitter.com/andrewbrown) |
+| NET01-AWS100 | | Level 100 | AWS |  |
+| NET01-AZ100 | | Level 100 | Azure |  |
+| NET01-GCP100 | | Level 100 | GCP | |
 
 ### **NET02** — VPC Peering
 
 | Project Code | Project Details | Difficulty | CSP | Author(s) |
 |:--|:--|:--|:--|:--|
-| NET02-AWS100 | | Level 100 | AWS | [Chris Nagy](https://twitter.com/chris_the_nagy) |
-| NET02-AZ100 | | Level 100 | Azure | [Gwyneth Peña S.](https://twitter.com/madebygps) |
-| NET02-GCP100 | | Level 100 | GCP | [Andrew Brown](https://twitter.com/andrewbrown) |
+| NET02-AWS100 | | Level 100 | AWS | |
+| NET02-AZ100 | | Level 100 | Azure |  |
+| NET02-GCP100 | | Level 100 | GCP |  |
 
 
 ### **NET03** — Transfer Acceleration
 
 | Project Code | Project Details | Difficulty | CSP | Author(s) |
 |:--|:--|:--|:--|:--|
-| NET03-AWS100 | | Level 100 | AWS | [Chris Nagy](https://twitter.com/chris_the_nagy) |
-| NET03-AZ100 | | Level 100 | Azure | [Gwyneth Peña S.](https://twitter.com/madebygps) |
-| NET03-GCP100 | | Level 100 | GCP | [Andrew Brown](https://twitter.com/andrewbrown) |
+| NET03-AWS100 | | Level 100 | AWS | |
+| NET03-AZ100 | | Level 100 | Azure |  |
+| NET03-GCP100 | | Level 100 | GCP |  |
 
 ### **NET04** — Content Distribution Networks (CDNs)
 | Project Code | Project Details | Difficulty | CSP | Author(s) |
@@ -196,57 +196,57 @@ Messaging Systems are commonly used for Application Integration.
 
 | Project Code | Project Details | Difficulty | CSP | Author(s) |
 |:--|:--|:--|:--|:--|
-| GLU01-AWS100 | | Level 100 | AWS | [Chris Nagy](https://twitter.com/chris_the_nagy) |
-| GLU01-AZ100 | | Level 100 | Azure | [Gwyneth Peña S.](https://twitter.com/madebygps) |
-| GLU01-GCP100 | | Level 100 | GCP | [Andrew Brown](https://twitter.com/andrewbrown) |
+| GLU01-AWS100 | | Level 100 | AWS | [ |
+| GLU01-AZ100 | | Level 100 | Azure ||
+| GLU01-GCP100 | | Level 100 | GCP | |
 
 ### **GLU02** — Pub/Sub Messaging Service
 
 | Project Code | Project Details | Difficulty | CSP | Author(s) |
 |:--|:--|:--|:--|:--|
-| GLU02-AWS100 | | Level 100 | AWS | [Chris Nagy](https://twitter.com/chris_the_nagy) |
-| GLU02-AZ100 | | Level 100 | Azure | [Gwyneth Peña S.](https://twitter.com/madebygps) |
-| GLU02-GCP100 | | Level 100 | GCP | [Andrew Brown](https://twitter.com/andrewbrown) |
+| GLU02-AWS100 | | Level 100 | AWS | |
+| GLU02-AZ100 | | Level 100 | Azure |  |
+| GLU02-GCP100 | | Level 100 | GCP |  |
 
 ### **GLU03** — Streaming Service
 
 | Project Code | Project Details | Difficulty | CSP | Author(s) |
 |:--|:--|:--|:--|:--|
-| GLU03-AWS100 | | Level 100 | AWS | [Chris Nagy](https://twitter.com/chris_the_nagy) |
-| GLU03-AZ100 | | Level 100 | Azure | [Gwyneth Peña S.](https://twitter.com/madebygps) |
-| GLU03-GCP100 | | Level 100 | GCP | [Andrew Brown](https://twitter.com/andrewbrown) |
+| GLU03-AWS100 | | Level 100 | AWS ||
+| GLU03-AZ100 | | Level 100 | Azure | |
+| GLU03-GCP100 | | Level 100 | GCP | |
 
 ### **GLU04** — Event Bus Service
 
 | Project Code | Project Details | Difficulty | CSP | Author(s) |
 |:--|:--|:--|:--|:--|
-| GLU04-AWS100 | | Level 100 | AWS | [Chris Nagy](https://twitter.com/chris_the_nagy) |
-| GLU04-AZ100 | | Level 100 | Azure | [Gwyneth Peña S.](https://twitter.com/madebygps) |
-| GLU04-GCP100 | | Level 100 | GCP | [Andrew Brown](https://twitter.com/andrewbrown) |
+| GLU04-AWS100 | | Level 100 | AWS | |
+| GLU04-AZ100 | | Level 100 | Azure | |
+| GLU04-GCP100 | | Level 100 | GCP ||
 
 ### **GLU05** — GraphQL Service
 
 | Project Code | Project Details | Difficulty | CSP | Author(s) |
 |:--|:--|:--|:--|:--|
-| GLU05-AWS100 | | Level 100 | AWS | [Chris Nagy](https://twitter.com/chris_the_nagy) |
-| GLU05-AZ100 | | Level 100 | Azure | [Gwyneth Peña S.](https://twitter.com/madebygps) |
-| GLU05-GCP100 | | Level 100 | GCP | [Andrew Brown](https://twitter.com/andrewbrown) |
+| GLU05-AWS100 | | Level 100 | AWS |  |
+| GLU05-AZ100 | | Level 100 | Azure | |
+| GLU05-GCP100 | | Level 100 | GCP |  |
 
 ### **GLU06** — PartiQ
 
 | Project Code | Project Details | Difficulty | CSP | Author(s) |
 |:--|:--|:--|:--|:--|
-| GLU06-AWS100 | | Level 100 | AWS | [Chris Nagy](https://twitter.com/chris_the_nagy) |
-| GLU06-AZ100 | | Level 100 | Azure | [Gwyneth Peña S.](https://twitter.com/madebygps) |
-| GLU06-GCP100 | | Level 100 | GCP | [Andrew Brown](https://twitter.com/andrewbrown) |
+| GLU06-AWS100 | | Level 100 | AWS | |
+| GLU06-AZ100 | | Level 100 | Azure | |
+| GLU06-GCP100 | | Level 100 | GCP | |
 
 ### **GLU07** — State Machine Service
 
 | Project Code | Project Details | Difficulty | CSP | Author(s) |
 |:--|:--|:--|:--|:--|
-| GLU07-AWS100 | | Level 100 | AWS | [Chris Nagy](https://twitter.com/chris_the_nagy) |
-| GLU07-AZ100 | | Level 100 | Azure | [Gwyneth Peña S.](https://twitter.com/madebygps) |
-| GLU07-GCP100 | | Level 100 | GCP | [Andrew Brown](https://twitter.com/andrewbrown) |
+| GLU07-AWS100 | | Level 100 | AWS | |
+| GLU07-AZ100 | | Level 100 | Azure | |
+| GLU07-GCP100 | | Level 100 | GCP |  |
 
 
 ## 🐹 LES — Serverless
@@ -257,41 +257,41 @@ Serverless tech abstracts the need to care for the underlying infrastructure, gi
 
 | Project Code | Project Details | Difficulty | CSP | Author(s) |
 |:--|:--|:--|:--|:--|
-| LES01-AWS100 | | Level 100 | AWS | [Chris Nagy](https://twitter.com/chris_the_nagy) |
-| LES01-AZ100 | | Level 100 | Azure | [Gwyneth Peña S.](https://twitter.com/madebygps) |
-| LES01-GCP100 | | Level 100 | GCP | [Andrew Brown](https://twitter.com/andrewbrown) |
+| LES01-AWS100 | | Level 100 | AWS | |
+| LES01-AZ100 | | Level 100 | Azure | |
+| LES01-GCP100 | | Level 100 | GCP | |
 
 ### **LES02** — Serverless Containers
 
 | Project Code | Project Details | Difficulty | CSP | Author(s) |
 |:--|:--|:--|:--|:--|
-| LES02-AWS100 | | Level 100 | AWS | [Chris Nagy](https://twitter.com/chris_the_nagy) |
-| LES02-AZ100 | | Level 100 | Azure | [Gwyneth Peña S.](https://twitter.com/madebygps) |
-| LES02-GCP100 | | Level 100 | GCP | [Andrew Brown](https://twitter.com/andrewbrown) |
+| LES02-AWS100 | | Level 100 | AWS | |
+| LES02-AZ100 | | Level 100 | Azure | |
+| LES02-GCP100 | | Level 100 | GCP | |
 
 ### **LES03** — Serverless Storage
 
 | Project Code | Project Details | Difficulty | CSP | Author(s) |
 |:--|:--|:--|:--|:--|
-| LES03-AWS100 | | Level 100 | AWS | [Chris Nagy](https://twitter.com/chris_the_nagy) |
-| LES03-AZ100 | | Level 100 | Azure | [Gwyneth Peña S.](https://twitter.com/madebygps) |
-| LES03-GCP100 | | Level 100 | GCP | [Andrew Brown](https://twitter.com/andrewbrown) |
+| LES03-AWS100 | | Level 100 | AWS | |
+| LES03-AZ100 | | Level 100 | Azure | |
+| LES03-GCP100 | | Level 100 | GCP | |
 
 ### **LES04** — Serverless NoSQL
 
 | Project Code | Project Details | Difficulty | CSP | Author(s) |
 |:--|:--|:--|:--|:--|
-| LES04-AWS100 | | Level 100 | AWS | [Chris Nagy](https://twitter.com/chris_the_nagy) |
-| LES04-AZ100 | | Level 100 | Azure | [Gwyneth Peña S.](https://twitter.com/madebygps) |
-| LES04-GCP100 | | Level 100 | GCP | [Andrew Brown](https://twitter.com/andrewbrown) |
+| LES04-AWS100 | | Level 100 | AWS | |
+| LES04-AZ100 | | Level 100 | Azure | |
+| LES04-GCP100 | | Level 100 | GCP | |
 
 ### **LES05** — Serverless SQL
 
 | Project Code | Project Details | Difficulty | CSP | Author(s) |
 |:--|:--|:--|:--|:--|
-| LES05-AWS100 | | Level 100 | AWS | [Chris Nagy](https://twitter.com/chris_the_nagy) |
-| LES05-AZ100 | | Level 100 | Azure | [Gwyneth Peña S.](https://twitter.com/madebygps) |
-| LES05-GCP100 | | Level 100 | GCP | [Andrew Brown](https://twitter.com/andrewbrown) |
+| LES05-AWS100 | | Level 100 | AWS | |
+| LES05-AZ100 | | Level 100 | Azure |  |
+| LES05-GCP100 | | Level 100 | GCP | |
 
 
 ## ✍️ ARC — Solution Architecting
@@ -300,17 +300,17 @@ Serverless tech abstracts the need to care for the underlying infrastructure, gi
 
 | Project Code | Project Details | Difficulty | CSP | Author(s) |
 |:--|:--|:--|:--|:--|
-| ARC01-AWS100 | | Level 100 | AWS | [Chris Nagy](https://twitter.com/chris_the_nagy) |
-| ARC01-AZ100 | | Level 100 | Azure | [Gwyneth Peña S.](https://twitter.com/madebygps) |
-| ARC01-GCP100 | | Level 100 | GCP | [Andrew Brown](https://twitter.com/andrewbrown) |
+| ARC01-AWS100 | | Level 100 | AWS |  |
+| ARC01-AZ100 | | Level 100 | Azure | |
+| ARC01-GCP100 | | Level 100 | GCP | |
 
 ### **ARC02** - Well-Architected Framework
 
 | Project Code | Project Details | Difficulty | CSP | Author(s) |
 |:--|:--|:--|:--|:--|
-| ARC02-AWS100 | | Level 100 | AWS | [Chris Nagy](https://twitter.com/chris_the_nagy) |
-| ARC02-AZ100 | | Level 100 | Azure | [Gwyneth Peña S.](https://twitter.com/madebygps) |
-| ARC02-GCP100 | | Level 100 | GCP | [Andrew Brown](https://twitter.com/andrewbrown) |
+| ARC02-AWS100 | | Level 100 | AWS ||
+| ARC02-AZ100 | | Level 100 | Azure | |
+| ARC02-GCP100 | | Level 100 | GCP | |
 
 
 ## 🤖 MLS — Machine Learning
@@ -319,33 +319,33 @@ Serverless tech abstracts the need to care for the underlying infrastructure, gi
 
 | Project Code | Project Details | Difficulty | CSP | Author(s) |
 |:--|:--|:--|:--|:--|
-| MLS01-AWS100 | | Level 100 | AWS | [Chris Nagy](https://twitter.com/chris_the_nagy) |
-| MLS01-AZ100 | | Level 100 | Azure | [Gwyneth Peña S.](https://twitter.com/madebygps) |
-| MLS01-GCP100 | | Level 100 | GCP | [Andrew Brown](https://twitter.com/andrewbrown) |
+| MLS01-AWS100 | | Level 100 | AWS |  |
+| MLS01-AZ100 | | Level 100 | Azure | |
+| MLS01-GCP100 | | Level 100 | GCP | |
 
 ### **MLS02** — Image Recognition Service
 
 | Project Code | Project Details | Difficulty | CSP | Author(s) |
 |:--|:--|:--|:--|:--|
-| MLS02-AWS100 | | Level 100 | AWS | [Chris Nagy](https://twitter.com/chris_the_nagy) |
-| MLS02-AZ100 | | Level 100 | Azure | [Gwyneth Peña S.](https://twitter.com/madebygps) |
-| MLS02-GCP100 | | Level 100 | GCP | [Andrew Brown](https://twitter.com/andrewbrown) |
+| MLS02-AWS100 | | Level 100 | AWS | |
+| MLS02-AZ100 | | Level 100 | Azure | |
+| MLS02-GCP100 | | Level 100 | GCP |  |
 
 ### **MLS03** — Text Extraction Service
 
 | Project Code | Project Details | Difficulty | CSP | Author(s) |
 |:--|:--|:--|:--|:--|
-| MLS03-AWS100 | | Level 100 | AWS | [Chris Nagy](https://twitter.com/chris_the_nagy) |
-| MLS03-AZ100 | | Level 100 | Azure | [Gwyneth Peña S.](https://twitter.com/madebygps) |
-| MLS03-GCP100 | | Level 100 | GCP | [Andrew Brown](https://twitter.com/andrewbrown) |
+| MLS03-AWS100 | | Level 100 | AWS |  |
+| MLS03-AZ100 | | Level 100 | Azure | |
+| MLS03-GCP100 | | Level 100 | GCP |  |
 
 ### **MLS04** — Natural Language Processing Service
 
 | Project Code | Project Details | Difficulty | CSP | Author(s) |
 |:--|:--|:--|:--|:--|
-| MLS04-AWS100 | | Level 100 | AWS | [Chris Nagy](https://twitter.com/chris_the_nagy) |
-| MLS04-AZ100 | | Level 100 | Azure | [Gwyneth Peña S.](https://twitter.com/madebygps) |
-| MLS04-GCP100 | | Level 100 | GCP | [Andrew Brown](https://twitter.com/andrewbrown) |
+| MLS04-AWS100 | | Level 100 | AWS |  |
+| MLS04-AZ100 | | Level 100 | Azure | |
+| MLS04-GCP100 | | Level 100 | GCP |  |
 
 
 ## 📱 IOT — Internet of Things
@@ -354,9 +354,9 @@ Serverless tech abstracts the need to care for the underlying infrastructure, gi
 
 | Project Code | Project Details | Difficulty | CSP | Author(s) |
 |:--|:--|:--|:--|:--|
-| IOT01-AWS100 | | Level 100 | AWS | [Chris Nagy](https://twitter.com/chris_the_nagy) |
-| IOT01-AZ100 | | Level 100 | Azure | [Gwyneth Peña S.](https://twitter.com/madebygps) |
-| IOT01-GCP100 | | Level 100 | GCP | [Andrew Brown](https://twitter.com/andrewbrown) |
+| IOT01-AWS100 | | Level 100 | AWS |  |
+| IOT01-AZ100 | | Level 100 | Azure |  |
+| IOT01-GCP100 | | Level 100 | GCP |  |
 
 
 ## 📦 STR — Cloud Storage
@@ -365,41 +365,41 @@ Serverless tech abstracts the need to care for the underlying infrastructure, gi
 
 | Project Code | Project Details | Difficulty | CSP | Author(s) |
 |:--|:--|:--|:--|:--|
-| STR01-AWS100 | | Level 100 | AWS | [Chris Nagy](https://twitter.com/chris_the_nagy) |
-| STR01-AZ100 | | Level 100 | Azure | [Gwyneth Peña S.](https://twitter.com/madebygps) |
-| STR01-GCP100 | | Level 100 | GCP | [Andrew Brown](https://twitter.com/andrewbrown) |
+| STR01-AWS100 | | Level 100 | AWS |  |
+| STR01-AZ100 | | Level 100 | Azure | |
+| STR01-GCP100 | | Level 100 | GCP | |
 
 ### **STR02** — Virtual SSD, HDD and Tape Drives
 
 | Project Code | Project Details | Difficulty | CSP | Author(s) |
 |:--|:--|:--|:--|:--|
-| STR02-AWS100 | | Level 100 | AWS | [Chris Nagy](https://twitter.com/chris_the_nagy) |
-| STR02-AZ100 | | Level 100 | Azure | [Gwyneth Peña S.](https://twitter.com/madebygps) |
-| STR02-GCP100 | | Level 100 | GCP | [Andrew Brown](https://twitter.com/andrewbrown) |
+| STR02-AWS100 | | Level 100 | AWS |  |
+| STR02-AZ100 | | Level 100 | Azure | |
+| STR02-GCP100 | | Level 100 | GCP | |
 
 ### **STR03** — Shared File Storage Service 
 
 | Project Code | Project Details | Difficulty | CSP | Author(s) |
 |:--|:--|:--|:--|:--|
-| STR03-AWS100 | | Level 100 | AWS | [Chris Nagy](https://twitter.com/chris_the_nagy) |
-| STR03-AZ100 | | Level 100 | Azure | [Gwyneth Peña S.](https://twitter.com/madebygps) |
-| STR03-GCP100 | | Level 100 | GCP | [Andrew Brown](https://twitter.com/andrewbrown) |
+| STR03-AWS100 | | Level 100 | AWS |  |
+| STR03-AZ100 | | Level 100 | Azure | |
+| STR03-GCP100 | | Level 100 | GCP |  |
 
 ### **STR04** — Object Storage
 
 | Project Code | Project Details | Difficulty | CSP | Author(s) |
 |:--|:--|:--|:--|:--|
-| STR04-AWS100 | | Level 100 | AWS | [Chris Nagy](https://twitter.com/chris_the_nagy) |
-| STR04-AZ100 | | Level 100 | Azure | [Gwyneth Peña S.](https://twitter.com/madebygps) |
-| STR04-GCP100 | | Level 100 | GCP | [Andrew Brown](https://twitter.com/andrewbrown) |
+| STR04-AWS100 | | Level 100 | AWS |  |
+| STR04-AZ100 | | Level 100 | Azure | |
+| STR04-GCP100 | | Level 100 | GCP | |
 
 ### **STR05** — Data Lakes
 
 | Project Code | Project Details | Difficulty | CSP | Author(s) |
 |:--|:--|:--|:--|:--|
-| STR05-AWS100 | | Level 100 | AWS | [Chris Nagy](https://twitter.com/chris_the_nagy) |
-| STR05-AZ100 | | Level 100 | Azure | [Gwyneth Peña S.](https://twitter.com/madebygps) |
-| STR05-GCP100 | | Level 100 | GCP | [Andrew Brown](https://twitter.com/andrewbrown) |
+| STR05-AWS100 | | Level 100 | AWS | |
+| STR05-AZ100 | | Level 100 | Azure | |
+| STR05-GCP100 | | Level 100 | GCP | |
 
 
 ## 🗄 DBS — Databases
@@ -408,57 +408,57 @@ Serverless tech abstracts the need to care for the underlying infrastructure, gi
 
 | Project Code | Project Details | Difficulty | CSP | Author(s) |
 |:--|:--|:--|:--|:--|
-| DBS01-AWS100 | | Level 100 | AWS | [Chris Nagy](https://twitter.com/chris_the_nagy) |
-| DBS01-AZ100 | | Level 100 | Azure | [Gwyneth Peña S.](https://twitter.com/madebygps) |
-| DBS01-GCP100 | | Level 100 | GCP | [Andrew Brown](https://twitter.com/andrewbrown) |
+| DBS01-AWS100 | | Level 100 | AWS ||
+| DBS01-AZ100 | | Level 100 | Azure | |
+| DBS01-GCP100 | | Level 100 | GCP | |
 
 ### **DBS02** — CAP Theorem
 
 | Project Code | Project Details | Difficulty | CSP | Author(s) |
 |:--|:--|:--|:--|:--|
-| DBS02-AWS100 | | Level 100 | AWS | [Chris Nagy](https://twitter.com/chris_the_nagy) |
-| DBS02-AZ100 | | Level 100 | Azure | [Gwyneth Peña S.](https://twitter.com/madebygps) |
-| DBS02-GCP100 | | Level 100 | GCP | [Andrew Brown](https://twitter.com/andrewbrown) |
+| DBS02-AWS100 | | Level 100 | AWS |  |
+| DBS02-AZ100 | | Level 100 | Azure |  |
+| DBS02-GCP100 | | Level 100 | GCP |  |
 
 ### **DBS03** — Relational Database
 
 | Project Code | Project Details | Difficulty | CSP | Author(s) |
 |:--|:--|:--|:--|:--|
-| DBS03-AWS100 | | Level 100 | AWS | [Chris Nagy](https://twitter.com/chris_the_nagy) |
-| DBS03-AZ100 | | Level 100 | Azure | [Gwyneth Peña S.](https://twitter.com/madebygps) |
-| DBS03-GCP100 | | Level 100 | GCP | [Andrew Brown](https://twitter.com/andrewbrown) |
+| DBS03-AWS100 | | Level 100 | AWS |  |
+| DBS03-AZ100 | | Level 100 | Azure | |
+| DBS03-GCP100 | | Level 100 | GCP |  |
 
 ### **DBS04** — Sharding
 
 | Project Code | Project Details | Difficulty | CSP | Author(s) |
 |:--|:--|:--|:--|:--|
-| DBS04-AWS100 | | Level 100 | AWS | [Chris Nagy](https://twitter.com/chris_the_nagy) |
-| DBS04-AZ100 | | Level 100 | Azure | [Gwyneth Peña S.](https://twitter.com/madebygps) |
-| DBS04-GCP100 | | Level 100 | GCP | [Andrew Brown](https://twitter.com/andrewbrown) |
+| DBS04-AWS100 | | Level 100 | AWS |  |
+| DBS04-AZ100 | | Level 100 | Azure | |
+| DBS04-GCP100 | | Level 100 | GCP | |
 
 ### **DBS05** — NoSQL Database
 
 | Project Code | Project Details | Difficulty | CSP | Author(s) |
 |:--|:--|:--|:--|:--|
-| DBS05-AWS100 | | Level 100 | AWS | [Chris Nagy](https://twitter.com/chris_the_nagy) |
-| DBS05-AZ100 | | Level 100 | Azure | [Gwyneth Peña S.](https://twitter.com/madebygps) |
-| DBS05-GCP100 | | Level 100 | GCP | [Andrew Brown](https://twitter.com/andrewbrown) |
+| DBS05-AWS100 | | Level 100 | AWS |  |
+| DBS05-AZ100 | | Level 100 | Azure |  |
+| DBS05-GCP100 | | Level 100 | GCP | |
 
 ### **DBS06** — Graph Database
 
 | Project Code | Project Details | Difficulty | CSP | Author(s) |
 |:--|:--|:--|:--|:--|
-| DBS06-AWS100 | | Level 100 | AWS | [Chris Nagy](https://twitter.com/chris_the_nagy) |
-| DBS06-AZ100 | | Level 100 | Azure | [Gwyneth Peña S.](https://twitter.com/madebygps) |
-| DBS06-GCP100 | | Level 100 | GCP | [Andrew Brown](https://twitter.com/andrewbrown) |
+| DBS06-AWS100 | | Level 100 | AWS | |
+| DBS06-AZ100 | | Level 100 | Azure | ,|
+| DBS06-GCP100 | | Level 100 | GCP | |
 
 ###  **DBS07** — Qauntum Database
 
 | Project Code | Project Details | Difficulty | CSP | Author(s) |
 |:--|:--|:--|:--|:--|
-| DBS07-AWS100 | | Level 100 | AWS | [Chris Nagy](https://twitter.com/chris_the_nagy) |
-| DBS07-AZ100 | | Level 100 | Azure | [Gwyneth Peña S.](https://twitter.com/madebygps) |
-| DBS07-GCP100 | | Level 100 | GCP | [Andrew Brown](https://twitter.com/andrewbrown) |
+| DBS07-AWS100 | | Level 100 | AWS |  |
+| DBS07-AZ100 | | Level 100 | Azure | |
+| DBS07-GCP100 | | Level 100 | GCP | |
 
 
 ## 🛠️ DEV — Developer Tools
@@ -467,33 +467,33 @@ Serverless tech abstracts the need to care for the underlying infrastructure, gi
 
 | Project Code | Project Details | Difficulty | CSP | Author(s) |
 |:--|:--|:--|:--|:--|
-| DEV01-AWS100 | | Level 100 | AWS | [Chris Nagy](https://twitter.com/chris_the_nagy) |
-| DEV01-AZ100 | | Level 100 | Azure | [Gwyneth Peña S.](https://twitter.com/madebygps) |
-| DEV01-GCP100 | | Level 100 | GCP | [Andrew Brown](https://twitter.com/andrewbrown) |
+| DEV01-AWS100 | | Level 100 | AWS |  |
+| DEV01-AZ100 | | Level 100 | Azure | |
+| DEV01-GCP100 | | Level 100 | GCP | |
 
 ### **DEV02** - NoCode Service
 
 | Project Code | Project Details | Difficulty | CSP | Author(s) |
 |:--|:--|:--|:--|:--|
-| DEV02-AWS100 | | Level 100 | AWS | [Chris Nagy](https://twitter.com/chris_the_nagy) |
-| DEV02-AZ100 | | Level 100 | Azure | [Gwyneth Peña S.](https://twitter.com/madebygps) |
-| DEV02-GCP100 | | Level 100 | GCP | [Andrew Brown](https://twitter.com/andrewbrown) |
+| DEV02-AWS100 | | Level 100 | AWS |  |
+| DEV02-AZ100 | | Level 100 | Azure |  |
+| DEV02-GCP100 | | Level 100 | GCP |  |
 
 ### **DEV03** - Command Line Interfaces (CLI)
 
 | Project Code | Project Details | Difficulty | CSP | Author(s) |
 |:--|:--|:--|:--|:--|
-| DEV03-AWS100 | | Level 100 | AWS | [Chris Nagy](https://twitter.com/chris_the_nagy) |
-| DEV03-AZ100 | | Level 100 | Azure | [Gwyneth Peña S.](https://twitter.com/madebygps) |
-| DEV03-GCP100 | | Level 100 | GCP | [Andrew Brown](https://twitter.com/andrewbrown) |
+| DEV03-AWS100 | | Level 100 | AWS | |
+| DEV03-AZ100 | | Level 100 | Azure |  |
+| DEV03-GCP100 | | Level 100 | GCP | |
 
 ### **DEV04** - Software Development Kit (SDK)
 
 | Project Code | Project Details | Difficulty | CSP | Author(s) |
 |:--|:--|:--|:--|:--|
-| DEV04-AWS100 | | Level 100 | AWS | [Chris Nagy](https://twitter.com/chris_the_nagy) |
-| DEV04-AZ100 | | Level 100 | Azure | [Gwyneth Peña S.](https://twitter.com/madebygps) |
-| DEV04-GCP100 | | Level 100 | GCP | [Andrew Brown](https://twitter.com/andrewbrown) |
+| DEV04-AWS100 | | Level 100 | AWS |  |
+| DEV04-AZ100 | | Level 100 | Azure |  |
+| DEV04-GCP100 | | Level 100 | GCP | |
 
 
 ## ♻️ OPS — DevOps
@@ -502,33 +502,33 @@ Serverless tech abstracts the need to care for the underlying infrastructure, gi
 
 | Project Code | Project Details | Difficulty | CSP | Author(s) |
 |:--|:--|:--|:--|:--|
-| OPS01-AWS100 | | Level 100 | AWS | [Chris Nagy](https://twitter.com/chris_the_nagy) |
-| OPS01-AZ100 | | Level 100 | Azure | [Gwyneth Peña S.](https://twitter.com/madebygps) |
-| OPS01-GCP100 | | Level 100 | GCP | [Andrew Brown](https://twitter.com/andrewbrown) |
+| OPS01-AWS100 | | Level 100 | AWS | |
+| OPS01-AZ100 | | Level 100 | Azure | |
+| OPS01-GCP100 | | Level 100 | GCP | |
 
 ### **OPS02** — Build Servers
 
 | Project Code | Project Details | Difficulty | CSP | Author(s) |
 |:--|:--|:--|:--|:--|
-| OPS02-AWS100 | | Level 100 | AWS | [Chris Nagy](https://twitter.com/chris_the_nagy) |
-| OPS02-AZ100 | | Level 100 | Azure | [Gwyneth Peña S.](https://twitter.com/madebygps) |
-| OPS02-GCP100 | | Level 100 | GCP | [Andrew Brown](https://twitter.com/andrewbrown) |
+| OPS02-AWS100 | | Level 100 | AWS | |
+| OPS02-AZ100 | | Level 100 | Azure |  |
+| OPS02-GCP100 | | Level 100 | GCP | |
 
 ### **OPS03** — Continuous Deployment
 
 | Project Code | Project Details | Difficulty | CSP | Author(s) |
 |:--|:--|:--|:--|:--|
-| OPS03-AWS100 | | Level 100 | AWS | [Chris Nagy](https://twitter.com/chris_the_nagy) |
-| OPS03-AZ100 | | Level 100 | Azure | [Gwyneth Peña S.](https://twitter.com/madebygps) |
-| OPS03-GCP100 | | Level 100 | GCP | [Andrew Brown](https://twitter.com/andrewbrown) |
+| OPS03-AWS100 | | Level 100 | AWS |  |
+| OPS03-AZ100 | | Level 100 | Azure | |
+| OPS03-GCP100 | | Level 100 | GCP | |
 
 ### **OPS04** — Monitoring
 
 | Project Code | Project Details | Difficulty | CSP | Author(s) |
 |:--|:--|:--|:--|:--|
-| OPS04-AWS100 | | Level 100 | AWS | [Chris Nagy](https://twitter.com/chris_the_nagy) |
-| OPS04-AZ100 | | Level 100 | Azure | [Gwyneth Peña S.](https://twitter.com/madebygps) |
-| OPS04-GCP100 | | Level 100 | GCP | [Andrew Brown](https://twitter.com/andrewbrown) |
+| OPS04-AWS100 | | Level 100 | AWS |  |
+| OPS04-AZ100 | | Level 100 | Azure |  |
+| OPS04-GCP100 | | Level 100 | GCP |  |
 
 
 ## BIG — Big Data and Analytics
@@ -537,25 +537,25 @@ Serverless tech abstracts the need to care for the underlying infrastructure, gi
 
 | Project Code | Project Details | Difficulty | CSP | Author(s) |
 |:--|:--|:--|:--|:--|
-| BIG01-AWS100 | | Level 100 | AWS | [Chris Nagy](https://twitter.com/chris_the_nagy) |
-| BIG01-AZ100 | | Level 100 | Azure | [Gwyneth Peña S.](https://twitter.com/madebygps) |
-| BIG01-GCP100 | | Level 100 | GCP | [Andrew Brown](https://twitter.com/andrewbrown) |
+| BIG01-AWS100 | | Level 100 | AWS | |
+| BIG01-AZ100 | | Level 100 | Azure | |
+| BIG01-GCP100 | | Level 100 | GCP | |
 
 ### **BIG02** — Data Warehouses
 
 | Project Code | Project Details | Difficulty | CSP | Author(s) |
 |:--|:--|:--|:--|:--|
-| BIG02-AWS100 | | Level 100 | AWS | [Chris Nagy](https://twitter.com/chris_the_nagy) |
-| BIG02-AZ100 | | Level 100 | Azure | [Gwyneth Peña S.](https://twitter.com/madebygps) |
-| BIG02-GCP100 | | Level 100 | GCP | [Andrew Brown](https://twitter.com/andrewbrown) |
+| BIG02-AWS100 | | Level 100 | AWS |  |
+| BIG02-AZ100 | | Level 100 | Azure | |
+| BIG02-GCP100 | | Level 100 | GCP | |
 
 ### **BIG03** — Extract, Transform, Load (ETL)
 
 | Project Code | Project Details | Difficulty | CSP | Author(s) |
 |:--|:--|:--|:--|:--|
-| BIG03-AWS100 | | Level 100 | AWS | [Chris Nagy](https://twitter.com/chris_the_nagy) |
-| BIG03-AZ100 | | Level 100 | Azure | [Gwyneth Peña S.](https://twitter.com/madebygps) |
-| BIG03-GCP100 | | Level 100 | GCP | [Andrew Brown](https://twitter.com/andrewbrown) |
+| BIG03-AWS100 | | Level 100 | AWS | |
+| BIG03-AZ100 | | Level 100 | Azure | |
+| BIG03-GCP100 | | Level 100 | GCP | |
 
 
 ## 👔 GOV — Management and Governance
@@ -564,9 +564,9 @@ Serverless tech abstracts the need to care for the underlying infrastructure, gi
 
 | Project Code | Project Details | Difficulty | CSP | Author(s) |
 |:--|:--|:--|:--|:--|
-| GOV01-AWS100 | | Level 100 | AWS | [Chris Nagy](https://twitter.com/chris_the_nagy) |
-| GOV01-AZ100 | | Level 100 | Azure | [Gwyneth Peña S.](https://twitter.com/madebygps) |
-| GOV01-GCP100 | | Level 100 | GCP | [Andrew Brown](https://twitter.com/andrewbrown) |
+| GOV01-AWS100 | | Level 100 | AWS | |
+| GOV01-AZ100 | | Level 100 | Azure | |
+| GOV01-GCP100 | | Level 100 | GCP | |
 
 ## ☁️ MLT — Multi-Cloud
 
@@ -574,9 +574,9 @@ Serverless tech abstracts the need to care for the underlying infrastructure, gi
 
 | Project Code | Project Details | Difficulty | CSP | Author(s) |
 |:--|:--|:--|:--|:--|
-| MLT01-AWS100 | | Level 100 | AWS | [Chris Nagy](https://twitter.com/chris_the_nagy) |
-| MLT01-AZ100 | | Level 100 | Azure | [Gwyneth Peña S.](https://twitter.com/madebygps) |
-| MLT01-GCP100 | | Level 100 | GCP | [Andrew Brown](https://twitter.com/andrewbrown) |
+| MLT01-AWS100 | | Level 100 | AWS |  |
+| MLT01-AZ100 | | Level 100 | Azure | |
+| MLT01-GCP100 | | Level 100 | GCP | |
 
 
 ## ☁️ HYR — Hybrid-Cloud
@@ -585,9 +585,9 @@ Serverless tech abstracts the need to care for the underlying infrastructure, gi
 
 | Project Code | Project Details | Difficulty | CSP | Author(s) |
 |:--|:--|:--|:--|:--|
-| HYR01-AWS100 | | Level 100 | AWS | [Chris Nagy](https://twitter.com/chris_the_nagy) |
-| HYR01-AZ100 | | Level 100 | Azure | [Gwyneth Peña S.](https://twitter.com/madebygps) |
-| HYR01-GCP100 | | Level 100 | GCP | [Andrew Brown](https://twitter.com/andrewbrown) |
+| HYR01-AWS100 | | Level 100 | AWS | |
+| HYR01-AZ100 | | Level 100 | Azure |  |
+| HYR01-GCP100 | | Level 100 | GCP | |
 
 ## 🤖 BOT — Robots 
 
@@ -595,27 +595,27 @@ Serverless tech abstracts the need to care for the underlying infrastructure, gi
 
 | Project Code | Project Details | Difficulty | CSP | Author(s) |
 |:--|:--|:--|:--|:--|
-| BOT01-AWS100 | | Level 100 | AWS | [Chris Nagy](https://twitter.com/chris_the_nagy) |
-| BOT01-AZ100 | | Level 100 | Azure | [Gwyneth Peña S.](https://twitter.com/madebygps) |
-| BOT01-GCP100 | | Level 100 | GCP | [Andrew Brown](https://twitter.com/andrewbrown) |
+| BOT01-AWS100 | | Level 100 | AWS | |
+| BOT01-AZ100 | | Level 100 | Azure |  |
+| BOT01-GCP100 | | Level 100 | GCP | |
 
 
 ### **BOT02** Autonomous Driving Simulation
 
 | Project Code | Project Details | Difficulty | CSP | Author(s) |
 |:--|:--|:--|:--|:--|
-| BOT02-AWS100 | | Level 100 | AWS | [Chris Nagy](https://twitter.com/chris_the_nagy) |
-| BOT02-AZ100 | | Level 100 | Azure | [Gwyneth Peña S.](https://twitter.com/madebygps) |
-| BOT02-GCP100 | | Level 100 | GCP | [Andrew Brown](https://twitter.com/andrewbrown) |
+| BOT02-AWS100 | | Level 100 | AWS |  |
+| BOT02-AZ100 | | Level 100 | Azure |  |
+| BOT02-GCP100 | | Level 100 | GCP | |
 
 
 ### **BOT03** Fleet Management
 
 | Project Code | Project Details | Difficulty | CSP | Author(s) |
 |:--|:--|:--|:--|:--|
-| BOT03-AWS100 | | Level 100 | AWS | [Chris Nagy](https://twitter.com/chris_the_nagy) |
-| BOT03-AZ100 | | Level 100 | Azure | [Gwyneth Peña S.](https://twitter.com/madebygps) |
-| BOT03-GCP100 | | Level 100 | GCP | [Andrew Brown](https://twitter.com/andrewbrown) |
+| BOT03-AWS100 | | Level 100 | AWS |  |
+| BOT03-AZ100 | | Level 100 | Azure | |
+| BOT03-GCP100 | | Level 100 | GCP |  |
 
 
 # 💡 Project Idea Contributors
