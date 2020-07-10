@@ -15,14 +15,14 @@
 ### You need to complete the following:
 - Create a Launch Configuration
 - Create an Auto Scaling Group with a minimum of two and maximum of five EC2 instances
-- Delete one instance manually
-- After the ASG is in place, increase the desired number of instances to three (after the ASG is in place)
+- Terminate one instance manually
+- After the ASG is in place, increase the desired number of instances to three
 - Delete all the resources you created
 
 
 ### You need to answer the following:
 - What are the key differences between a Launch Template and Launch Configuration?
-- What happens if you delete one of the running instances in an ASG manually?
+- What happens if you terminate one of the running instances in an ASG manually?
 - How can you set and change the minimum, desired and maximum number of instances in an ASG?
 - Based on what metrics can an ASG spin up / spin down instances?
 - What EC2 configuration settings can you set in a Launch Template/Configuration?
