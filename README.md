@@ -82,7 +82,7 @@ These are larger projects that use multiple cloud services.
 
 | Project Code | Project Details | Difficulty | CSP | Author(s) |
 |:--|:--|:--|:--|:--|
-| SEC02-AWS100 | | Level 100 | AWS |  |
+| SEC02-AWS100 | [Use a managed rule from AWS Config](Projects/SEC/SEC02/SEC02-AWS100.md)  | Level 100 | AWS | [Andrew Brown](https://twitter.com/andrewbrown) |
 | SEC02-AZ100 | | Level 100 | Azure |  |
 | SEC02-GCP100 | | Level 100 | GCP |  |
 
