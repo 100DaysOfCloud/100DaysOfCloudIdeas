@@ -24,7 +24,7 @@
 
 - What is AWS Config?
 - What does an AWS Config rule do?
-- What is redmedation in the context of a config rule?
+- What is remediation in the context of a config rule?
 
 ## References
 
