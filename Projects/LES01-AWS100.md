@@ -14,8 +14,8 @@
 
 ### You need to complete the following:
 - Create an AWS Lambda with a language of your choice, the purpose of this Lambda is to respond with a 'Hello Serverless World!' message.
-- Create an API Gateway endpoint and connect it to the AWS Lambda function created above and deploy it as an API that can be consumed from the Browser/ Postman.
-- Secure the API with an API Key
+- Create an API Gateway endpoint and connect it to the AWS Lambda function created above and deploy it as an API that can be consumed from Postman.
+- Secure the API with an API Key.
 
 
 
