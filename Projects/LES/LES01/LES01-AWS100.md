@@ -39,7 +39,7 @@
 - [Connecting AWS Lambda and API Gateway](https://docs.aws.amazon.com/lambda/latest/dg/services-apigateway-tutorial.html)
 - [Securing the API](https://docs.aws.amazon.com/apigateway/latest/developerguide/apigateway-control-access-to-api.html)
 
-##Ideas
+## Ideas
 - Use a browser to see if the output message 'Hello Serverless World!' is sent back as a response from your Lambda before securing your API. 
 - You will need [POSTMAN](https://learning.postman.com/docs/getting-started/introduction/), for testing the API once its secured with an API Key. 
 - POSTMAN is not a hard limit, but if you are familiar with any other testing utility you can use that too, but POSTMAN is a good to learn tool, that will come in handy for some other Serverless projects and APIs as well. 
