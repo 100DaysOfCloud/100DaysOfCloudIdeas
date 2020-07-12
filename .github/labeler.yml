@@ -1,0 +1,51 @@
+# Add/remove level label
+lvl100:
+  - "(Level 100)"
+lvl200:
+  - "(Level 200)"
+lvl300:
+  - "(Level 300)"
+lvl400:
+  - "(Level 400)"
+
+# Add/remove category label
+UNI:
+  - "(UNI)"
+SEC:
+  - "(SEC)"
+COM:
+  - "(COM)"
+NET:
+  - "(NET)"
+BIL:
+  - "(BIL)"
+GLU:
+  - "(GLU)"
+LES:
+  - "(LES)"
+ARC:
+  - "(ARC)"
+MLS:
+  - "(MLS)"
+IOT:
+  - "(IOT)"
+STR:
+  - "(STR)"
+DBS:
+  - "(DBS)"
+DEV:
+  - "(DEV)"
+OPS:
+  - "(OPS)"
+BIG:
+  - "(BIG)"
+GOV:
+  - "(GOV)"
+MLT:
+  - "(MLT)"
+HYR:
+  - "(HYR)"
+BOT:
+  - "(BOT)"
+LOW:
+  - "(LOW)"
