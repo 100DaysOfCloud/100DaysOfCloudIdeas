@@ -47,6 +47,11 @@
 - Included in the Free Tier
 - $1-5 per hour running
 
+## Estimated time to complete
+✍️ [Do your best to calculate the estimated time it takes to complete the project]
+- 45-60 minutes
+- 2 hours
+
 ## Tips
 ✍️  [Provide any _gotchas_ that are crucial to know.
 ✍️  Provide any possible unexpected charges, or awareness around default expensive options.
