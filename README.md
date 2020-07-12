@@ -176,7 +176,7 @@ These are larger projects that use multiple cloud services.
 ### **NET04** — Content Distribution Networks (CDNs)
 | Project Code | Project Details | Difficulty | CSP | Author(s) |
 |:--|:--|:--|:--|:--|
-| NET04-AWS100 | | Level 100 | AWS | |
+| NET04-AWS100 | [Host a simple static webpage with S3 and CloudFront](Project/net/net04/../../../Projects/NET/NET04/NET04-AWS100.md)| Level 100 | AWS | [Antonio Lo Fiego](https://twitter.com/antonio_lofiego)|
 | NET04-AZ100 | | Level 100 | Azure |  |
 | NET04-GCP100 | | Level 100 | GCP |  |
 
@@ -654,4 +654,5 @@ Serverless tech abstracts the need to care for the underlying infrastructure, gi
 
 * Andrew Brown [@andrewbrown](https://twitter.com/andrewbrown)
 * Gwyneth Peña S. [@madebygps](https://twitter.com/madebygps)
-* [Contribute a project to see your name added to the list!]
+* Antonio Lo Fiego [@Antonio_lofiego](https://twitter.com/antonio_lofiego)
+* Contribute a project to see your name added to the list!
