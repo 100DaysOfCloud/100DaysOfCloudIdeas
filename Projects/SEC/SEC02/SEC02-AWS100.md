@@ -7,6 +7,10 @@
 
 - Level 100 (Introductory)
 
+## Estimated Time
+
+1 hour
+
 ## Project's Author(s)
 
 - [Andrew Brown](https://twitter.com/andrewbrown)
