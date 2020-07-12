@@ -4,27 +4,27 @@ about: 'Propose a project Idea:'
 title: ''
 labels: ''
 assignees: ''
-
 ---
 
-### Choose the category (Choose only one, delete the remainging)
-- Cloud Security
-- Cloud Computing
-- Cloud Networking
-- Cloud Billing and Pricing
-- Application Integration
-- Serverless
-- Solution Architecting
-- Machine Learning
-- Internet of Things
-- Cloud Storage
-- Databases
-- Developer Tools
-- DevOps
-- Big Data and Analytics
-- Management and Governance
-- Multi-Cloud
-- Hybrid-Cloud
+### Choose the category (Choose only one, delete the remaining)
+
+- Cloud Security (SEC)
+- Cloud Computing (COM)
+- Cloud Networking (NET)
+- Cloud Billing and Pricing (BIL)
+- Application Integration (GLU)
+- Serverless (LES)
+- Solution Architecting (ARC)
+- Machine Learning (MLS)
+- Internet of Things (IOT)
+- Cloud Storage (STR)
+- Databases (DBS)
+- Developer Tools (DEV)
+- DevOps (OPS)
+- Big Data and Analytics (BIG)
+- Management and Governance (GOV)
+- Multi-Cloud (MLT)
+- Hybrid-Cloud (HYR)
 - Other (Please specify so we can add a category)
 
 If you know the sub-category that would help as well.
@@ -38,10 +38,10 @@ If you know the sub-category that would help as well.
 
 ### Choose the Cloud Service Provider (Please only choose one, unless its multi-cloud, delete the remaining)
 
--  AWS
--  GCP
--  Azure
--  Other (Please specify what others)
+- AWS
+- GCP
+- Azure
+- Other (Please specify what others)
 
 ### Do your best to calculate possible costs for free-tier and non-free-tier account
 
