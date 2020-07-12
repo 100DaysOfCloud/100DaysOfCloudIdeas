@@ -6,7 +6,8 @@
 ## Difficulty
 Level 100 (Introductory)
 
-Estimated time: 1 hour
+## Estimated Time
+1 hour
 
 ## Project's Author(s)
 * [Antonio Lo Fiego](https://twitter.com/antonio_lofiego)
