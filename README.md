@@ -133,7 +133,7 @@ These are larger projects that use multiple cloud services.
 
 | Project Code | Project Details | Difficulty | CSP | Author(s) |
 |:--|:--|:--|:--|:--|
-| COM04-AWS200 | [Create a cluster of virtual machines using docker swarm](Projects/COM/COM04/COM04-AWS200.md)| Level 200 | AWS | [Karan Gauswami](https://github.com/KaranGauswami) |
+| COM04-AWS400 | [Create a cluster of virtual machines using docker swarm](Projects/COM/COM04/COM04-AWS400.md)| Level 400 | AWS | [Karan Gauswami](https://github.com/KaranGauswami) |
 | COM04-AZ100 | | Level 100 | Azure |  |
 | COM04-GCP100 | | Level 100 | GCP |  |
 

@@ -6,7 +6,7 @@
 
 ## Difficulty
 
-- Level 200 (Intermediate)
+- Level 400 (Expert)
 
 ## Project's Author(s)
 
@@ -16,10 +16,9 @@
 
 ### You need to complete the following:
 
-- Create a VPC for our EC2 Instances
-- Create an EC2 Instance with initial script to install Docker
+- Create an EC2 Instance with user data script to install Docker
 - Setup that EC2 Instance as a manager node
-- Create multiple instances (4 to 5) with initial script to create worker nodes and join that manager node
+- Create multiple instances (2 to 3) with user data script to create worker nodes and join that manager node
 - Start any service like nginx to test our Swarm Cluster
 - Scale that service to multiple nodes
 - Delete all the resources you created after completion
@@ -27,7 +26,7 @@
 ### You need to answer the following:
 
 - How to check status of Docker nodes ?
-- What behaviour is expected if one of the Worker or Manager node went down ?
+- What behaviour is expected if one of the worker or manager node went down ?
 - How to get state of all the containers running on diffrent nodes ?
 - How to get token to add more workers and managers ?
 
@@ -44,10 +43,10 @@
 
 ## Estimated time to complete
 
-- 30-45 minutes
+- 4-5 hours
 
 ## Tips
 
 - Use t2.micro instances for creating nodes to avoid unexpected charges.
-- To add more Manager or Worker node , It is not required to SSH into that Instance.
-- Open SSH port for only required machines in Securiy groups.
+- To add more manager or worker nodes, it is not required to SSH into the new instance. Utilize the "user data" functionality.
+- Only allow incoming SSH traffic in security groups for the instances that require it.
