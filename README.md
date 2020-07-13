@@ -35,7 +35,7 @@ Projects are labeled based these four levels:
 - Level 400 (Expert)
 
 The goal is to provide micro-projects that can be completed in minutes to hours and worst case a day.
-The difficulty generally indicates greater time commitment. 
+The difficulty generally indicates greater time commitment.
 For more difficult projects more instruction can be provided to reduce the time commitment.
 Projects may suggest the time it takes to complete the project
 
@@ -78,7 +78,7 @@ These are larger projects that use multiple cloud services.
 | SEC01-AZ200 | [Deploying HSMs into an existing virtual network](Projects/SEC/SEC01/SEC01-AZ200.md) | Level 200 | Azure | [Gwyneth Peña S.](https://twitter.com/madebygps) |
 | SEC01-GCP100 | | Level 100 | GCP |  |
 
-### **SEC02** — Configuration and Remediation Service 
+### **SEC02** — Configuration and Remediation Service
 
 | Project Code | Project Details | Difficulty | CSP | Author(s) |
 |:--|:--|:--|:--|:--|
@@ -133,7 +133,7 @@ These are larger projects that use multiple cloud services.
 
 | Project Code | Project Details | Difficulty | CSP | Author(s) |
 |:--|:--|:--|:--|:--|
-| COM04-AWS100 | | Level 100 | AWS | |
+| COM04-AWS400 | [Create a cluster of virtual machines using docker swarm](Projects/COM/COM04/COM04-AWS400.md)| Level 400 | AWS | [Karan Gauswami](https://github.com/KaranGauswami) |
 | COM04-AZ100 | | Level 100 | Azure |  |
 | COM04-GCP100 | | Level 100 | GCP |  |
 
@@ -398,7 +398,7 @@ Serverless tech abstracts the need to care for the underlying infrastructure, gi
 | STR02-AZ100 | | Level 100 | Azure | |
 | STR02-GCP100 | | Level 100 | GCP | |
 
-### **STR03** — Shared File Storage Service 
+### **STR03** — Shared File Storage Service
 
 | Project Code | Project Details | Difficulty | CSP | Author(s) |
 |:--|:--|:--|:--|:--|
@@ -602,7 +602,7 @@ Serverless tech abstracts the need to care for the underlying infrastructure, gi
 
 ## ☁️ HYR — Hybrid-Cloud
 
-### **HYR01** — 
+### **HYR01** —
 
 | Project Code | Project Details | Difficulty | CSP | Author(s) |
 |:--|:--|:--|:--|:--|
@@ -610,7 +610,7 @@ Serverless tech abstracts the need to care for the underlying infrastructure, gi
 | HYR01-AZ100 | | Level 100 | Azure |  |
 | HYR01-GCP100 | | Level 100 | GCP | |
 
-## 🤖 BOT — Robots 
+## 🤖 BOT — Robots
 
 ### **BOT01** Robot Simulation
 
