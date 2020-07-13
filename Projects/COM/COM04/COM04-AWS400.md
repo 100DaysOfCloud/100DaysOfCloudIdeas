@@ -18,7 +18,7 @@
 
 - Create an EC2 Instance with user data script to install Docker
 - Setup that EC2 Instance as a manager node
-- Create multiple instances (2 to 3) with user data script to create worker nodes and join that manager node
+- Create multiple instances (2 to 3) with user data script to create worker nodes and join them with created manager node
 - Start any service like nginx to test our Swarm Cluster
 - Scale that service to multiple nodes
 - Delete all the resources you created after completion
