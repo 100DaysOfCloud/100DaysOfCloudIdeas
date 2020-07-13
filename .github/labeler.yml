@@ -10,42 +10,42 @@ lvl400:
 
 # Add/remove category label
 UNI:
-  - "(UNI)"
+  - "(\\(UNI\\))"
 SEC:
-  - "(SEC)"
+  - "(\\(SEC\\))"
 COM:
-  - "(COM)"
+  - "(\\(COM\\))"
 NET:
-  - "(NET)"
+  - "(\\(NET\\))"
 BIL:
-  - "(BIL)"
+  - "(\\(BIL\\))"
 GLU:
-  - "(GLU)"
+  - "(\\(GLU\\))"
 LES:
-  - "(LES)"
+  - "(\\(LES\\))"
 ARC:
-  - "(ARC)"
+  - "(\\(ARC\\))"
 MLS:
-  - "(MLS)"
+  - "(\\(MLS\\))"
 IOT:
-  - "(IOT)"
+  - "(\\(IOT\\))"
 STR:
-  - "(STR)"
+  - "(\\(STR\\))"
 DBS:
-  - "(DBS)"
+  - "(\\(DBS\\))"
 DEV:
-  - "(DEV)"
+  - "(\\(DEV\\))"
 OPS:
-  - "(OPS)"
+  - "(\\(OPS\\))"
 BIG:
-  - "(BIG)"
+  - "(\\(BIG\\))"
 GOV:
-  - "(GOV)"
+  - "(\\(GOV\\))"
 MLT:
-  - "(MLT)"
+  - "(\\(MLT\\))"
 HYR:
-  - "(HYR)"
+  - "(\\(HYR\\))"
 BOT:
-  - "(BOT)"
+  - "(\\(BOT\\))"
 LOW:
-  - "(LOW)"
+  - "(\\(LOW\\))"
