@@ -61,7 +61,7 @@ These are larger projects that use multiple cloud services.
 
 | Project Code | Project Details | Difficulty | CSP | Author(s) |
 |:--|:--|:--|:--|:--|
-| SEC02-AWS100 | | Level 100 | AWS |  |
+| SEC02-AWS100 | | Level 100 | AWS |  | 
 | SEC02-AZ100 | | Level 100 | Azure |  |
 | SEC02-GCP100 | | Level 100 | GCP |  |
 
@@ -73,13 +73,21 @@ These are larger projects that use multiple cloud services.
 | SEC03-AZ100 | | Level 100 | Azure |  |
 | SEC03-GCP100 | | Level 100 | GCP |  |
 
-### **SEC04** — Identity Federation
+### **SEC04** — Manage Identities
 
 | Project Code | Project Details | Difficulty | CSP | Author(s) |
 |:--|:--|:--|:--|:--|
 | SEC04-AWS100 | | Level 100 | AWS |  |
-| SEC04-AZ100 | | Level 100 | Azure | |
+| SEC04-AZ100 | [Create a user in Azure AD](Projects/SEC/SEC04/SEC04-AZ100.md)| Level 100 | Azure | [Gwyneth Peña S.](twitter.com/madebygps)|
 | SEC04-GCP100 | | Level 100 | GCP | |
+
+### **SEC05** — Identity Federation
+
+| Project Code | Project Details | Difficulty | CSP | Author(s) |
+|:--|:--|:--|:--|:--|
+| SEC05-AWS100 | | Level 100 | AWS |  |
+| SEC05-AZ100 | [Azure AD federation](Projects/SEC/SEC05/SEC05-AZ100.md)| Level 100 | Azure | [Gwyneth Peña S.](twitter.com/madebygps)|
+| SEC05-GCP100 | | Level 100 | GCP | |
 
 ## 🖥 COM — Cloud Computing
 
@@ -87,7 +95,7 @@ These are larger projects that use multiple cloud services.
 
 | Project Code | Project Details | Difficulty | CSP | Author(s) |
 |:--|:--|:--|:--|:--|
-| COM01-AWS100 | | Level 100 | AWS | |
+| COM01-AWS100 | | Level 100 | AWS | | 
 | COM01-AZ100 | | Level 100 | Azure | |
 | COM01-GCP100 | | Level 100 | GCP | |
 
