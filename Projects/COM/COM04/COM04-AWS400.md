@@ -1,4 +1,4 @@
-# COM04-AWS200 - Create a cluster of virtual machines using docker swarm
+# COM04-AWS400 - Create a cluster of virtual machines using docker swarm
 
 ## Cloud Service Provider
 
