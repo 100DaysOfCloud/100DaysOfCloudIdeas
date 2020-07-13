@@ -98,7 +98,7 @@ These are larger projects that use multiple cloud services.
 
 | Project Code | Project Details | Difficulty | CSP | Author(s) |
 |:--|:--|:--|:--|:--|
-| SEC04-AWS100 | | Level 100 | AWS |  |
+| SEC04-AWS100 | [Create an IAM user](Projects/SEC/SEC04/SEC04-AWS100.md)| Level 100 | AWS | [Syed Auther](https://twitter.com/syedauther)|
 | SEC04-AZ100 | [Create a user in Azure AD](Projects/SEC/SEC04/SEC04-AZ100.md)| Level 100 | Azure | [Gwyneth Peña S.](twitter.com/madebygps)|
 | SEC04-GCP100 | | Level 100 | GCP | |
 
