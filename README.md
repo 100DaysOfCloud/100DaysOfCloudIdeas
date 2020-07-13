@@ -54,7 +54,7 @@ These are larger projects that use multiple cloud services.
 | Project Code | Project Details | Difficulty | CSP | Author(s) |
 |:--|:--|:--|:--|:--|
 | SEC01-AWS100 | | Level 100 | AWS | |
-| SEC01-AZ200 | [Deploying HSMs into an existing virtual network](Projects/SEC/SEC01/SEC01-AZ200.md) | Level 200 | Azure | [Gwyneth Peña S.](https://twitter.com/madebygps) |
+| SEC01-AZ200 | [Configure and manage secrets in Azure Key Vault](Projects/SEC/SEC01/SEC01-AZ200.md) | Level 200 | Azure | [Gwyneth Peña S.](https://twitter.com/madebygps) |
 | SEC01-GCP100 | | Level 100 | GCP |  |
 
 ### **SEC02** — Configuration and Remediation Service 
