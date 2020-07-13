@@ -26,7 +26,7 @@
 ### You need to answer the following:
 
 - How to check status of Docker nodes ?
-- What behaviour is expected if one of the worker or manager node went down ?
+- What behaviour is expected if one of the worker or manager nodes went down ?
 - How to get state of all the containers running on diffrent nodes ?
 - How to get token to add more workers and managers ?
 
