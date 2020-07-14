@@ -286,7 +286,8 @@ Serverless tech abstracts the need to care for the underlying infrastructure, gi
 
 | Project Code | Project Details | Difficulty | CSP | Author(s) |
 |:--|:--|:--|:--|:--|
-| LES01-AWS100 | [Create a simple serverless API](Projects/LES/LES01/LES01-AWS100.md)| Level 100 | AWS | [Syed Auther](https://twitter.com/syedauther) |
+| LES01-AWS100 | [Create a Lambda to add 2 numbers](Projects/LES/LES01/LES01-AWS100.md)| Level 100 | AWS | [Syed Auther](https://twitter.com/syedauther) |
+| LES01-AWS200 | [Create a simple serverless API](Projects/LES/LES01/LES01-AWS200.md)| Level 200 | AWS | [Syed Auther](https://twitter.com/syedauther) |
 | LES01-AZ100 | | Level 100 | Azure | |
 | LES01-GCP100 | | Level 100 | GCP | |
 
