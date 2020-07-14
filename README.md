@@ -18,9 +18,9 @@ The purpose of this repo is to provide a list of micro-projects to help people w
 
 When you open a ticket it will have a Github Issue ID eg. 23
 
-You can reference this number both in your branch name and commits message.
+You should reference this number both in your branch name and your PR's commit message.
 
-By including this number it will conslidate your commits under the Github Issue page
+Including this number will keep track of your commits in the project idea's Github Issue.
 
 eg. Branch Name
 
@@ -35,7 +35,7 @@ eg. Commit Message
 ```
 
 
-### We may edit your projects submissions in your Pull Request
+### We may edit your project submissions in your Pull Requests
 
 When you submit a Pull Request (PR) we may edit the following without notice:
 
@@ -43,7 +43,7 @@ When you submit a Pull Request (PR) we may edit the following without notice:
 * Markdown formatting
 * Difficulty Level
 
-We do this to expediate the review process so your project is quickly
+We do this to expedite the review process so your project is quickly
 accepted into the Ideas repository.
 
 
