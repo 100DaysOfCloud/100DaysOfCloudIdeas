@@ -14,6 +14,39 @@ The purpose of this repo is to provide a list of micro-projects to help people w
 * You can propose a cloud project by opening a [ticket 🎟️](https://github.com/100DaysOfCloud/100DaysOfCloudIdeas/issues/new?assignees=&labels=&template=cloud-project-idea.md&title=)
 * You need to use our [Project Template](Templates/PROJECT-TEMPLATE.md) and submit it as a pull request.
 
+### Please do your best to tag your commits
+
+When you open a ticket it will have a Github Issue ID eg. 23
+
+You can reference this number both in your branch name and commits message.
+
+By including this number it will conslidate your commits under the Github Issue page
+
+eg. Branch Name
+
+```
+git checkout -b 23-COM01-AWS100
+```
+
+eg. Commit Message
+
+```
+#23 — Launching an EC2 instance
+```
+
+
+### We may edit your projects submissions in your Pull Request
+
+When you submit a Pull Request (PR) we may edit the following without notice:
+
+* Typos
+* Markdown formatting
+* Difficulty Level
+
+We do this to expediate the review process so your project is quickly
+accepted into the Ideas repository.
+
+
 ## Which Cloud Service Providers?
 
 Projects covered could be for:
