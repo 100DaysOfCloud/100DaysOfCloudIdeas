@@ -6,10 +6,13 @@
 * Amazon Web Services
 
 ## Difficulty
-Level 100 (Introductory)
+* Level 100 (Introductory)
 
 ## Estimated time:
- 1 hour
+ * 1 hour
+
+## Cost
+* IAM is a free service
 
 ## Project's Author(s)
 * [Syed Auther](https://twitter.com/syedauther)
@@ -20,8 +23,11 @@ Level 100 (Introductory)
 
 * Create a new user in AWS IAM with programmatic and console access
 * Add user to Admin group 
+--Create a new group called "Admins"
+--Add the AdministratorAccess managed policy to the new group
+--Add your new user to the "Admins" group
 * Enable MFA for the IAM root user 
-* Apply an IAM password policy with best security practises.
+* Apply an IAM password policy with best security practices.
 
 
 
@@ -30,14 +36,14 @@ Level 100 (Introductory)
 * What is Identity and Access Management? 
 * What is a root user?
 * How is a root user different from an Admin user? 
-* What is console access and Programmatic access? 
+* What is console access and programmatic access? 
 * What is the access key and secret key? 
 * What is MFA for root user? Why is it a good practise to configure MFA? 
 * What are policies and how to create them?
 * What are roles and how to create them?
 * What is the difference between a role and a policy?
 * What is a user group? 
-* What are some good security practises for password policies? 
+* What are some good security practices for password policies? 
 
 ## References
 
@@ -51,4 +57,4 @@ Level 100 (Introductory)
 
 ## Tips
 * User [Google Authenticator ](https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2) for MFA.
-* Do not store AWS access keys you create with this task on public platforms like Github 
+* Do not ever commit, add or push any of your access and secret keys to source control systems like git, or any other publicly accessible platform where others can access it. If you accidentaly have done so, make sure to delete the access and secret keys immediately in your console and generate new ones. 
