@@ -1,51 +1,53 @@
+# Add/remove category label
+SEC:
+  - "(- Cloud Security \\(SEC\\))"
+COM:
+  - "(- Cloud Computing \\(COM\\))"
+NET:
+  - "(- Cloud Networking \\(NET\\))"
+BIL:
+  - "(- Cloud Billing and Pricing \\(BIL\\))"
+GLU:
+  - "(- Application Integration \\(GLU\\))"
+LES:
+  - "(- Serverless \\(LES\\))"
+ARC:
+  - "(- Solution Architecting \\(ARC\\))"
+MLS:
+  - "(- Machine Learning \\(MLS\\))"
+IOT:
+  - "(- Internet of Things \\(IOT\\))"
+STR:
+  - "(- Cloud Storage \\(STR\\))"
+DBS:
+  - "(- Databases \\(DBS\\))"
+DEV:
+  - "(- Developer Tools \\(DEV\\))"
+OPS:
+  - "(- DevOps \\(OPS\\))"
+BIG:
+  - "(- Big Data and Analytics \\(BIG\\))"
+GOV:
+  - "(- Management and Governance \\(GOV\\))"
+MLT:
+  - "(- Multi-Cloud \\(MLT\\))"
+HYR:
+  - "(- Hybrid-Cloud \\(HYR\\))"
+
 # Add/remove level label
 lvl100:
-  - "(Level 100)"
+  - "(- Level 100 \\(Introductory\\))"
 lvl200:
-  - "(Level 200)"
+  - "(- Level 200 \\(Intermediate\\))"
 lvl300:
-  - "(Level 300)"
+  - "(- Level 300 \\(Advanced\\))"
 lvl400:
-  - "(Level 400)"
+  - "(- Level 400 \\(Expert\\))"
 
-# Add/remove category label
-UNI:
-  - "(\\(UNI\\))"
-SEC:
-  - "(\\(SEC\\))"
-COM:
-  - "(\\(COM\\))"
-NET:
-  - "(\\(NET\\))"
-BIL:
-  - "(\\(BIL\\))"
-GLU:
-  - "(\\(GLU\\))"
-LES:
-  - "(\\(LES\\))"
-ARC:
-  - "(\\(ARC\\))"
-MLS:
-  - "(\\(MLS\\))"
-IOT:
-  - "(\\(IOT\\))"
-STR:
-  - "(\\(STR\\))"
-DBS:
-  - "(\\(DBS\\))"
-DEV:
-  - "(\\(DEV\\))"
-OPS:
-  - "(\\(OPS\\))"
-BIG:
-  - "(\\(BIG\\))"
-GOV:
-  - "(\\(GOV\\))"
-MLT:
-  - "(\\(MLT\\))"
-HYR:
-  - "(\\(HYR\\))"
-BOT:
-  - "(\\(BOT\\))"
-LOW:
-  - "(\\(LOW\\))"
+# Add/remove cloud provider label
+AWS:
+  - "(- AWS)"
+GCP:
+  - "(- GCP)"
+Azure:
+  - "(- Azure)"
