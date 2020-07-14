@@ -25,7 +25,7 @@
 ## Project's Author(s)
 ✍️ [Provide one contact information per author where participants can reach you in the form of a link. Twitter, Github, LinkedIn, Email etc.]
 
-[@username](https://twitter/username)
+- [Author Name](https://twitter.com/username)
 
 ## Objectives
 
