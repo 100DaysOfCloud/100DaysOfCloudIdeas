@@ -7,7 +7,7 @@
 - Level 200 (Intermediate)
 
 ## Project's Author(s)
-[Chris Nagy](https://twitter.com/chris_the_nagy)
+- [Chris Nagy](https://twitter.com/chris_the_nagy)
 
 ## Objectives
 
@@ -21,6 +21,7 @@
 - Open that file on the EFS volume with Instance-2
 
 ### You need to answer the following:
+- What are the use cases for EFS volumes?
 - From how many regions and availability zones can a single EFS volume be accessed?
 - What network protocol does EFS use?
 - How many instances can an EFS volume be mounted on simultaneously?
