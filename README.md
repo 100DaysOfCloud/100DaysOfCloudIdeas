@@ -165,6 +165,7 @@ These are larger projects that use multiple cloud services.
 
 | Project Code | Project Details | Difficulty | CSP | Author(s) |
 |:--|:--|:--|:--|:--|
+| COM03-AWS100 | [Launch a Hello World website on the internet](Projects/COM/COM03/COM03-AWS100.md) | Level 100 | AWS | [Syed Auther](https://twitter.com/syedauther) |
 | COM03-AWS200 | [Create an Auto Scaling Group](Projects/COM/COM03/COM03-AWS200.md) | Level 200 | AWS | [Chris Nagy](https://twitter.com/chris_the_nagy) |
 | COM03-AZ100 | | Level 100 | Azure | |
 | COM03-GCP100 | | Level 100 | GCP | |
@@ -696,4 +697,5 @@ Serverless tech abstracts the need to care for the underlying infrastructure, gi
 * Andrew Brown [@andrewbrown](https://twitter.com/andrewbrown)
 * Gwyneth Peña S. [@madebygps](https://twitter.com/madebygps)
 * Antonio Lo Fiego [@Antonio_lofiego](https://twitter.com/antonio_lofiego)
+* Syed Auther Abbas [@syedauther](https://twitter.com/syedauther)
 * Contribute a project to see your name added to the list!
