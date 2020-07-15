@@ -1,3 +1,21 @@
+# Add/remove cloud provider label
+AWS:
+  - "(- Amazon Web Services)"
+Azure:
+  - "(- Microsoft Azure)"
+GCP:
+  - "(- Google Cloud)"
+
+# Add/remove level label
+lvl100:
+  - "(- Level 100 \\(Introductory\\))"
+lvl200:
+  - "(- Level 200 \\(Intermediate\\))"
+lvl300:
+  - "(- Level 300 \\(Advanced\\))"
+lvl400:
+  - "(- Level 400 \\(Expert\\))"
+
 # Add/remove category label
 SEC:
   - "(- Cloud Security \\(SEC\\))"
@@ -34,20 +52,6 @@ MLT:
 HYR:
   - "(- Hybrid-Cloud \\(HYR\\))"
 
-# Add/remove level label
-lvl100:
-  - "(- Level 100 \\(Introductory\\))"
-lvl200:
-  - "(- Level 200 \\(Intermediate\\))"
-lvl300:
-  - "(- Level 300 \\(Advanced\\))"
-lvl400:
-  - "(- Level 400 \\(Expert\\))"
-
-# Add/remove cloud provider label
-AWS:
-  - "(- AWS)"
-GCP:
-  - "(- GCP)"
-Azure:
-  - "(- Azure)"
+# Add/remove "Other" label for other cloud providers or categories
+Other:
+  - "(- Other:)"
