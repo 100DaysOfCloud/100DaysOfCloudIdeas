@@ -1,51 +1,57 @@
+# Add/remove cloud provider label
+AWS:
+  - "(- Amazon Web Services)"
+Azure:
+  - "(- Microsoft Azure)"
+GCP:
+  - "(- Google Cloud)"
+
 # Add/remove level label
 lvl100:
-  - "(Level 100)"
+  - "(- Level 100 \\(Introductory\\))"
 lvl200:
-  - "(Level 200)"
+  - "(- Level 200 \\(Intermediate\\))"
 lvl300:
-  - "(Level 300)"
+  - "(- Level 300 \\(Advanced\\))"
 lvl400:
-  - "(Level 400)"
+  - "(- Level 400 \\(Expert\\))"
 
 # Add/remove category label
-UNI:
-  - "(\\(UNI\\))"
 SEC:
-  - "(\\(SEC\\))"
+  - "(- Cloud Security \\(SEC\\))"
 COM:
-  - "(\\(COM\\))"
+  - "(- Cloud Computing \\(COM\\))"
 NET:
-  - "(\\(NET\\))"
+  - "(- Cloud Networking \\(NET\\))"
 BIL:
-  - "(\\(BIL\\))"
+  - "(- Cloud Billing and Pricing \\(BIL\\))"
 GLU:
-  - "(\\(GLU\\))"
+  - "(- Application Integration \\(GLU\\))"
 LES:
-  - "(\\(LES\\))"
+  - "(- Serverless \\(LES\\))"
 ARC:
-  - "(\\(ARC\\))"
+  - "(- Solution Architecting \\(ARC\\))"
 MLS:
-  - "(\\(MLS\\))"
+  - "(- Machine Learning \\(MLS\\))"
 IOT:
-  - "(\\(IOT\\))"
+  - "(- Internet of Things \\(IOT\\))"
 STR:
-  - "(\\(STR\\))"
+  - "(- Cloud Storage \\(STR\\))"
 DBS:
-  - "(\\(DBS\\))"
+  - "(- Databases \\(DBS\\))"
 DEV:
-  - "(\\(DEV\\))"
+  - "(- Developer Tools \\(DEV\\))"
 OPS:
-  - "(\\(OPS\\))"
+  - "(- DevOps \\(OPS\\))"
 BIG:
-  - "(\\(BIG\\))"
+  - "(- Big Data and Analytics \\(BIG\\))"
 GOV:
-  - "(\\(GOV\\))"
+  - "(- Management and Governance \\(GOV\\))"
 MLT:
-  - "(\\(MLT\\))"
+  - "(- Multi-Cloud \\(MLT\\))"
 HYR:
-  - "(\\(HYR\\))"
-BOT:
-  - "(\\(BOT\\))"
-LOW:
-  - "(\\(LOW\\))"
+  - "(- Hybrid-Cloud \\(HYR\\))"
+
+# Add/remove "Other" label for other cloud providers or categories
+Other:
+  - "(- Other:)"
