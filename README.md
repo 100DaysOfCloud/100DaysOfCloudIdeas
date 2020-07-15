@@ -697,6 +697,7 @@ Serverless tech abstracts the need to care for the underlying infrastructure, gi
 
 * Andrew Brown [@andrewbrown](https://twitter.com/andrewbrown)
 * Gwyneth Peña S. [@madebygps](https://twitter.com/madebygps)
-* Antonio Lo Fiego [@Antonio_lofiego](https://twitter.com/antonio_lofiego)
+* Antonio Lo Fiego [@antonio_lofiego](https://twitter.com/antonio_lofiego)
 * Syed Auther Abbas [@syedauther](https://twitter.com/syedauther)
+* Chris Nagy [@chris_the_nagy](https://twitter.com/chris_the_nagy)
 * Contribute a project to see your name added to the list!
