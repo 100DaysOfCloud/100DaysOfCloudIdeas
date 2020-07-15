@@ -1,12 +1,3 @@
----
-name: Cloud Project Idea
-about: 'Propose a project Idea:'
-title: ''
-labels: ''
-assignees: ''
-
----
-
 ### CATEGORYXX-PROVIDERXXX - Project Title
 [This must be the name of the issue, omit this section!]
 - ✍️ [Title must be in the form of: CATEGORY01-PROVIDER100 - TITLE]

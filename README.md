@@ -116,7 +116,7 @@ These are larger projects that use multiple cloud services.
 | Project Code | Project Details | Difficulty | CSP | Author(s) |
 |:--|:--|:--|:--|:--|
 | SEC02-AWS100 | [Use a managed rule from AWS Config](Projects/SEC/SEC02/SEC02-AWS100.md)  | Level 100 | AWS | [Andrew Brown](https://twitter.com/andrewbrown) |
-| SEC02-AZ100 | | Level 100 | Azure |  |
+| SEC02-AZ100 | [Create an Azure Policy](Projects/SEC/SEC02/SEC02-AZ100.md)| Level 100 | Azure | [Gwyneth Peña S.](https://twitter.com/madebygps) |
 | SEC02-GCP100 | | Level 100 | GCP |  |
 
 ### **SEC03** — Security Development Lifecycle
@@ -445,7 +445,7 @@ Serverless tech abstracts the need to care for the underlying infrastructure, gi
 
 | Project Code | Project Details | Difficulty | CSP | Author(s) |
 |:--|:--|:--|:--|:--|
-| STR03-AWS100 | | Level 100 | AWS |  |
+| STR03-AWS200|[Create an EFS shared file system](Projects/STR/STR03/STR03-AWS200.md) | Level 200 | AWS | [Chris Nagy](https://twitter.com/chris_the_nagy) |
 | STR03-AZ100 | | Level 100 | Azure | |
 | STR03-GCP100 | | Level 100 | GCP |  |
 
