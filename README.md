@@ -150,7 +150,7 @@ These are larger projects that use multiple cloud services.
 | Project Code | Project Details | Difficulty | CSP | Author(s) |
 |:--|:--|:--|:--|:--|
 | COM01-AWS100 | | Level 100 | AWS | | 
-| COM01-AZ100 | | Level 100 | Azure | |
+| COM01-AZ200 | [Azure VMware Solution](Projects/COM/COM01/COM01-AZ200.md)| Level 100 | Azure |[Gwyneth Peña S.](twitter.com/madebygps) |
 | COM01-GCP100 | | Level 100 | GCP | |
 
 ### **COM02** - Dedicated
