@@ -124,7 +124,7 @@ These are larger projects that use multiple cloud services.
 | Project Code | Project Details | Difficulty | CSP | Author(s) |
 |:--|:--|:--|:--|:--|
 | SEC03-AWS100 | | Level 100 | AWS | |
-| SEC03-AZ100 | | Level 100 | Azure |  |
+| SEC03-AZ100 |[Secure development best practices on Azure](Projects/SEC/SEC03/SEC03-AZ100.md) | Level 100 | Azure | [Gwyneth Peña S.](https://twitter.com/madebygps) |
 | SEC03-GCP100 | | Level 100 | GCP |  |
 
 ### **SEC04** — Manage Identities
