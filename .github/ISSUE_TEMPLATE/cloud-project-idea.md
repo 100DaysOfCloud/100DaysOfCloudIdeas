@@ -20,7 +20,7 @@ assignees: ''
 - Amazon Web Services
 - Microsoft Azure
 - Google Cloud
-- Other (Please specify)
+- Other: < Please specify >
 
 ### Choose the level of difficulty (Please only choose one, delete the remaining)
 - Level 100 (Introductory)
@@ -46,7 +46,7 @@ assignees: ''
 - Management and Governance (GOV)
 - Multi-Cloud (MLT)
 - Hybrid-Cloud (HYR)
-- Other (Please specify so we can add a category)
+- Other: < Please specify so we can add a category >
 
 ### Calculate the estimated time required to complete this project (Rather go with more if unsure)
 - 45-60 minutes
