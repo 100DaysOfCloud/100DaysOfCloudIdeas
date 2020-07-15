@@ -445,7 +445,7 @@ Serverless tech abstracts the need to care for the underlying infrastructure, gi
 
 | Project Code | Project Details | Difficulty | CSP | Author(s) |
 |:--|:--|:--|:--|:--|
-| STR03-AWS100 | | Level 100 | AWS |  |
+| STR03-AWS200|[Create an EFS shared file system](Projects/STR/STR03/STR03-AWS200.md) | Level 200 | AWS | [Chris Nagy](https://twitter.com/chris_the_nagy) |
 | STR03-AZ100 | | Level 100 | Azure | |
 | STR03-GCP100 | | Level 100 | GCP |  |
 
