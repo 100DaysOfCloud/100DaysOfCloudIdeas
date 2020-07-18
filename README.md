@@ -157,7 +157,7 @@ These are larger projects that use multiple cloud services.
 | Project Code | Project Details | Difficulty | CSP   | Author(s) |
 | :----------- | :-------------- | :--------- | :---- | :-------- |
 | COM02-AWS100 |                 | Level 100  | AWS   |           |
-| COM02-AZ100  |                 | Level 100  | Azure |           |
+| COM02-AZ200  |[Deploy VMs to dedicated hosts using the portal](Projects\COM\COM02\COM02-AZ200.md)              | Level 200  | Azure |  [Gwyneth Peña S.](twitter.com/madebygps)        |
 | COM02-GCP100 |                 | Level 100  | GCP   |           |
 
 ### **COM03** - Virtual Machines
@@ -178,13 +178,6 @@ These are larger projects that use multiple cloud services.
 | COM04-AZ100  |                                                                                               | Level 100  | Azure |                                                    |
 | COM04-GCP100 |                                                                                               | Level 100  | GCP   |                                                    |
 
-### **COM05** - Functions
-
-| Project Code | Project Details | Difficulty | CSP   | Author(s) |
-| :----------- | :-------------- | :--------- | :---- | :-------- |
-| COM05-AWS100 |                 | Level 100  | AWS   |           |
-| COM05-AZ100  |                 | Level 100  | Azure |           |
-| COM05-GCP100 |                 | Level 100  | GCP   |           |
 
 ## 🌐 NET — Cloud Networking
 
