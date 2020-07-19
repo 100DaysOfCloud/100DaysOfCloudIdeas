@@ -1,0 +1,29 @@
+---
+#### NOTICE
+# 1. Create a new file on your computer called "template.yaml"
+# 2. Paste all this into that file and save it
+#### END NOTICE
+
+AWSTemplateFormatVersion: '2010-09-09'
+
+Resources:
+
+  # This deploys an S3 bucket. It will be named automatically.
+  S3Bucket:
+    Type: AWS::S3::Bucket
+
+  # This deploys a simple DynamoDB Table. It will be named automatically.
+  DynamoDBTable: 
+    Type: AWS::DynamoDB::Table
+    Properties:
+      ProvisionedThroughput: 
+        ReadCapacityUnits: "1"
+        WriteCapacityUnits: "1"
+      AttributeDefinitions: 
+        - 
+          AttributeName: "Id"
+          AttributeType: "S"
+      KeySchema: 
+        - 
+          AttributeName: "Id"
+          KeyType: "HASH"
