@@ -19,7 +19,7 @@
 
 ### You need to complete the following:
 
-- Download our simple, pre-made [CloudFormation template](./OPS01-AWS100-CFTEMPLATE.yaml)
+- Download our simple, pre-made [CloudFormation template](./OPS01-AWS100-CFTEMPLATE.yaml?raw=true)
 - Go to the CloudFormation Console in AWS
 - Choose _create stack with new resources_ and use the template file from above
 - At the _"Configure stack options"_, leave everything on default
