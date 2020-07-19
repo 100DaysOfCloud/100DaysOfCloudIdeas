@@ -1,0 +1,25 @@
+---
+# This template was made for the #100DaysOfCloud challenge
+AWSTemplateFormatVersion: '2010-09-09'
+
+Resources:
+
+  # This deploys an S3 bucket. It will be named automatically.
+  S3Bucket:
+    Type: AWS::S3::Bucket
+
+  # This deploys a simple DynamoDB Table. It will be named automatically.
+  DynamoDBTable: 
+    Type: AWS::DynamoDB::Table
+    Properties:
+      ProvisionedThroughput: 
+        ReadCapacityUnits: "1"
+        WriteCapacityUnits: "1"
+      AttributeDefinitions: 
+        - 
+          AttributeName: "Id"
+          AttributeType: "S"
+      KeySchema: 
+        - 
+          AttributeName: "Id"
+          KeyType: "HASH"
