@@ -1,4 +1,7 @@
 ---
+#### NOTICE
+# Paste this into a file on your computer called "template.yaml"
+####
 AWSTemplateFormatVersion: '2010-09-09'
 
 Resources:
