@@ -437,7 +437,7 @@ Serverless tech abstracts the need to care for the underlying infrastructure, gi
 
 | Project Code | Project Details | Difficulty | CSP   | Author(s) |
 | :----------- | :-------------- | :--------- | :---- | :-------- |
-| STR04-AWS100 |                 | Level 100  | AWS   |           |
+| STR04-AWS100 |[Create an S3 Bucketand store an object on it](Projects/STR/STR04/STR04-AWS100.md)                 | Level 100 
 | STR04-AZ100  |                 | Level 100  | Azure |           |
 | STR04-GCP100 |                 | Level 100  | GCP   |           |
 
