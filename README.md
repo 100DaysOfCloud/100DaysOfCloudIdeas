@@ -154,11 +154,11 @@ These are larger projects that use multiple cloud services.
 
 ### **COM02** - Dedicated
 
-| Project Code | Project Details | Difficulty | CSP   | Author(s) |
-| :----------- | :-------------- | :--------- | :---- | :-------- |
-| COM02-AWS100 |                 | Level 100  | AWS   |           |
-| COM02-AZ200  |[Deploy VMs to dedicated hosts using the portal](Projects/COM/COM02/COM02-AZ200.md)              | Level 200  | Azure |  [Gwyneth Peña S.](twitter.com/madebygps)        |
-| COM02-GCP100 |                 | Level 100  | GCP   |           |
+| Project Code | Project Details                                                                     | Difficulty | CSP   | Author(s)                                |
+| :----------- | :---------------------------------------------------------------------------------- | :--------- | :---- | :--------------------------------------- |
+| COM02-AWS100 |                                                                                     | Level 100  | AWS   |                                          |
+| COM02-AZ200  | [Deploy VMs to dedicated hosts using the portal](Projects/COM/COM02/COM02-AZ200.md) | Level 200  | Azure | [Gwyneth Peña S.](twitter.com/madebygps) |
+| COM02-GCP100 |                                                                                     | Level 100  | GCP   |                                          |
 
 ### **COM03** - Virtual Machines
 
@@ -174,10 +174,10 @@ These are larger projects that use multiple cloud services.
 | Project Code | Project Details                                                                               | Difficulty | CSP   | Author(s)                                          |
 | :----------- | :-------------------------------------------------------------------------------------------- | :--------- | :---- | :------------------------------------------------- |
 | COM04-AWS100 | [Push a Docker image to Amazon ECR repository](Projects/COM/COM04/COM04-AWS100.md)            | Level 100  | AWS   | [Johan Rin](https://twitter.com/johanrin)          |
+| COM04-AWS200 | [Deploy a Docker container image on AWS Fargate](Projects/COM/COM04/COM04-AWS200.md)          | Level 200  | AWS   | [Johan Rin](https://twitter.com/johanrin)          |
 | COM04-AWS400 | [Create a cluster of virtual machines using docker swarm](Projects/COM/COM04/COM04-AWS400.md) | Level 400  | AWS   | [Karan Gauswami](https://github.com/KaranGauswami) |
 | COM04-AZ100  |                                                                                               | Level 100  | Azure |                                                    |
 | COM04-GCP100 |                                                                                               | Level 100  | GCP   |                                                    |
-
 
 ## 🌐 NET — Cloud Networking
 
@@ -674,5 +674,5 @@ Serverless tech abstracts the need to care for the underlying infrastructure, gi
 - Antonio Lo Fiego [@antonio_lofiego](https://twitter.com/antonio_lofiego)
 - Syed Auther Abbas [@syedauther](https://twitter.com/syedauther)
 - Chris Nagy [@chris_the_nagy](https://twitter.com/chris_the_nagy)
-- Johan Rin [Johan Rin](https://twitter.com/johanrin)
+- Johan Rin [@johanrin](https://twitter.com/johanrin)
 - Contribute a project to see your name added to the list!
