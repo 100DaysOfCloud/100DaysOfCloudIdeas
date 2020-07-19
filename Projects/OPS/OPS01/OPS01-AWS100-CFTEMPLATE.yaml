@@ -1,5 +1,4 @@
 ---
-# This template was made for the #100DaysOfCloud challenge
 AWSTemplateFormatVersion: '2010-09-09'
 
 Resources:
