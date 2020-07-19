@@ -23,7 +23,7 @@
 - Go to the CloudFormation Console in AWS
 - Choose _create stack with new resources_ and use the template file from above
 - At the _"Configure stack options"_, leave everything on default
-- Watch as CloudFormation deploys the resources
+- Watch as CloudFormation deploys the resources, check the _events_ tab to see what is being created
 - Make sure that there is a new DynamoDB Table, and a new S3 bucket deployed
 - Delete the stack in the CloudFormation console
 - Make sure both resources got deleted
