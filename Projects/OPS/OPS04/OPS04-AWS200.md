@@ -1,4 +1,4 @@
-# OPS04-AWS100 - Create a CloudWatch Alarm
+# OPS04-AWS200 - Create a CloudWatch Alarm
 
 ## Cloud Service Provider
 - Amazon Web Services
@@ -12,7 +12,7 @@
 ## Objectives
 
 ### You need to complete the following:
-- Launch an EC2 t2-micro instance with a public IP address and supply the [provided bash script](OPS04-AWS200-userdata.sh) to install a simple website with an apache server in the UserData.
+- Launch an EC2 t2.micro instance with a public IP address and supply the [provided bash script](OPS04-AWS200-userdata.sh) to install a simple website with an apache server in the UserData.
 - Visit the the public IP so that you are generating NetworkIn. You need
   to do this so the Metric appears selectable when create your
 CloudWatch Alarm
@@ -37,8 +37,8 @@ CloudWatch Alarm
 - [Using Amazon CloudWatch Alarms](https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/AlarmThatSendsEmail.html)
 
 ## Costs
-- t2.micro is included in Free Tier
-- First 10 CloudWatch Alarms are in Free Tier
+- t2.micro is included in the Free Tier
+- First 10 CloudWatch Alarms are included in the Free Tier
 
 ## Estimated time to complete
 - 45 minutes
