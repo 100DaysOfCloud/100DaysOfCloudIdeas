@@ -185,8 +185,8 @@ These are larger projects that use multiple cloud services.
 
 | Project Code | Project Details | Difficulty | CSP   | Author(s) |
 | :----------- | :-------------- | :--------- | :---- | :-------- |
-| NET01-AWS100 |                 | Level 100  | AWS   |           |
-| NET01-AZ100  |                 | Level 100  | Azure |           |
+| NET01-AWS100 |        | Level 100  | AWS   |         |
+| NET01-AZ200  |[Plan your Virtual Network](Projects/NET/NET01/NET01-AZ200.md) | Level 100  | Azure |  [Gwyneth Peña S.](https://twitter.com/madebygps)           |
 | NET01-GCP100 |                 | Level 100  | GCP   |           |
 
 ### **NET02** — VPC Peering
