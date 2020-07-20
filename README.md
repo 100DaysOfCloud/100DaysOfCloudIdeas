@@ -571,7 +571,7 @@ Serverless tech abstracts the need to care for the underlying infrastructure, gi
 
 | Project Code | Project Details | Difficulty | CSP   | Author(s) |
 | :----------- | :-------------- | :--------- | :---- | :-------- |
-| OPS04-AWS100 |                 | Level 100  | AWS   |           |
+| OPS04-AWS200 | [Create a CloudWatch Alarm ](Projects/OPS/OPS04/OPS04-AWS200.md)           | Level 200  | AWS   |  [Andrew Brown](https://twitter.com/andrewbrown)          |
 | OPS04-AZ100  |                 | Level 100  | Azure |           |
 | OPS04-GCP100 |                 | Level 100  | GCP   |           |
 
