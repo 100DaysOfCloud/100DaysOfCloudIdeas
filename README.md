@@ -166,7 +166,7 @@ These are larger projects that use multiple cloud services.
 | :----------- | :--------------------------------------------------------------------------------- | :--------- | :---- | :----------------------------------------------- |
 | COM03-AWS100 | [Launch a Hello World website on the internet](Projects/COM/COM03/COM03-AWS100.md) | Level 100  | AWS   | [Syed Auther](https://twitter.com/syedauther)    |
 | COM03-AWS200 | [Create an Auto Scaling Group](Projects/COM/COM03/COM03-AWS200.md)                 | Level 200  | AWS   | [Chris Nagy](https://twitter.com/chris_the_nagy) |
-| COM03-AZ100  |                                                                                    | Level 100  | Azure |                                                  |
+| COM03-AZ100|   [Introduction to Azure virtual machines](Projects/COM/COM03/COM03-AZ100.md)                                                                                 | Level 100  | Azure |  [Gwyneth Peña S.](twitter.com/madebygps)                                                |
 | COM03-GCP100 |                                                                                    | Level 100  | GCP   |                                                  |
 
 ### **COM04** - Containers
