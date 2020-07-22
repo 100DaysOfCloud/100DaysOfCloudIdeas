@@ -210,7 +210,7 @@ These are larger projects that use multiple cloud services.
 | Project Code | Project Details                                                                                                      | Difficulty | CSP   | Author(s)                                               |
 | :----------- | :------------------------------------------------------------------------------------------------------------------- | :--------- | :---- | :------------------------------------------------------ |
 | NET04-AWS100 | [Host a simple static webpage with S3 and CloudFront](Project/net/net04/../../../Projects/NET/NET04/NET04-AWS100.md) | Level 100  | AWS   | [Antonio Lo Fiego](https://twitter.com/antonio_lofiego) |
-| NET04-AZ100  |                                                                                                                      | Level 100  | Azure |                                                         |
+| NET04-AZ100 |[Azure CDN and Blob Services](Project/net/net04/../../../Projects/NET/NET04/NET04-AZ200.md)                                                                                                                      | Level 200  | Azure | [Gwyneth Peña S.](https://twitter.com/madebygps)                                                          |
 | NET04-GCP100 |                                                                                                                      | Level 100  | GCP   |                                                         |
 
 ## 🧾 BIL — Cloud Billing and Pricing
