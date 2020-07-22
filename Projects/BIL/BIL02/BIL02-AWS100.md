@@ -1,4 +1,4 @@
-# BIL01-AWS100 — Create three Billing Alarms
+# BIL02-AWS100 — Create a Cost Budget
 
 ## Cloud Service Provider
 * Amazon Web Services (AWS)
@@ -6,23 +6,28 @@
 ## Difficulty
 Level 100 (Introductory)
 
+## Estimated Time
+* 20 - 40 minutes 
+  
 ## Project's Author(s)
-* [Chris Nagy](https://twitter.com/chris_the_nagy)
+* [Ariela](https://twitter.com/ari_hacks)
 
 ## Objectives
 
 ###  You need to complete the following:
 
-* Create a billing alarm for $5
-* Create a billing alarm for $25
-* Create a billing alarm for $100
+* Create a cost budget 
 
 ###  You need to answer the following: 
 
-* How many billing alarms do you get for free?
-* When a billing alarm is triggered how will you know?
-* What is the difference between a billing alarm and a cloudwatch alarm?
+* In order for IAM users to create budgets in the Billing and Cost Management console what else must these users be allowed to do? 
+* In addition to the console how else can you create budgets? 
+* Is it better to set budgets on a recurring basis or for a specific time? And why? 
+* What are the different types of costs that make up a cost budget? 
+* What are the different options for setting budget alerts? 
+  
 
 ## References
 
-* [Creating a Billing Alarm to Monitor Your Estimated AWS Charges](https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/monitor_estimated_charges_with_cloudwatch.html)
+* [Create a cost budget](https://docs.aws.amazon.com/awsaccountbilling/latest/aboutv2/budgets-create.html#create-cost-budget)
+* [Best practices](https://docs.aws.amazon.com/awsaccountbilling/latest/aboutv2/budgets-best-practices.html)
