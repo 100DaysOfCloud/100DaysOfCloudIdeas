@@ -249,7 +249,7 @@ Messaging Systems are commonly used for Application Integration.
 | Project Code | Project Details | Difficulty | CSP   | Author(s) |
 | :----------- | :-------------- | :--------- | :---- | :-------- |
 | GLU01-AWS100 |                 | Level 100  | AWS   |           |
-| GLU01-AZ100  |                 | Level 100  | Azure |           |
+| GLU01-AZ100  | [Create an Azure Queue in the Portal](Projects/GLU/GLU01/GLU01-AZ100.md)                | Level 100  | Azure | [Gwyneth Pena S.](https://twitter.com/madebygps)          |
 | GLU01-GCP100 |                 | Level 100  | GCP   |           |
 
 ### **GLU02** — Pub/Sub Messaging Service
