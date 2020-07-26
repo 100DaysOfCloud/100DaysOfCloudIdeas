@@ -1,0 +1,17 @@
+#Copy this template as it to paste into state machine definition  
+{
+  "Comment": "A simple app with 2 states, one to add numbers get the square of the sum",
+  "StartAt": "step1_sum_of_2_numbers",
+  "States": {
+    "step1_sum_of_2_numbers": {
+      "Type": "Task",
+      "Resource": "REPLACE THIS STRING WITH STEP1 LAMBDA ARN",
+      "Next": "step2_square_of_the_sum"
+    },
+    "step2_square_of_the_sum": {
+      "Type": "Task",
+      "Resource": "REPLACE THIS STRING WITH STEP2 LAMBDA ARN",
+      "End": true
+    }
+  }
+}
