@@ -23,7 +23,7 @@
 * Create an AWS Lambda to return the square of a number-  [ sample code for step 2](./GLU07-AWS200-SF-step2.py?raw=true)  
 * Create a state machine to connect the above two Lambdas
 	* Go to the step  functions console click on create state machine , do not chnage the default settings.
-	* Copy [ this ](./GLU07-AWS200-SF-step2.py?raw=true) template to paste into Definition but carefully replace Lambda ARNs with the Lambdas created in above steps where necessary in the template. 
+	* Copy [ this ](./GLU07-AWS200-SF-Template.yaml?raw=true) template to paste into Definition but carefully replace Lambda ARNs with the Lambdas created in above steps where necessary in the template. 
 * Execute the state machine and verify the output.
 
 
