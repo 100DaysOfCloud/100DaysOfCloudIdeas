@@ -296,7 +296,7 @@ Messaging Systems are commonly used for Application Integration.
 
 | Project Code | Project Details | Difficulty | CSP   | Author(s) |
 | :----------- | :-------------- | :--------- | :---- | :-------- |
-| GLU07-AWS100 | [Setup a simple state machine with at least 2 steps](Projects/GLU/GLU07/GLU07-AWS100.md) | Level 100  | AWS   | [Syed Auther](https://twitter.com/syedauther) |
+| GLU07-AWS200 | [Setup a simple state machine with at least 2 steps](Projects/GLU/GLU07/GLU07-AWS200.md) | Level 200  | AWS   | [Syed Auther](https://twitter.com/syedauther) |
 | GLU07-AZ100  |                 | Level 100  | Azure |           |
 | GLU07-GCP100 |                 | Level 100  | GCP   |           |
 

@@ -1,4 +1,4 @@
-# GLU07-AWS100 - Setup a simple state machine with at least 2 steps
+# GLU07-AWS200 - Setup a simple state machine with at least 2 steps
 ## Cloud Service Provider
 - Amazon Web Services
 
@@ -19,11 +19,11 @@
 ## Objectives
 
 ### You need to complete the following:
-* Create an AWS Lambda to add 2 numbers supplied as input -[ sample code for step 1](./GLU07-AWS100-SF-step1.py?raw=true)  
-* Create an AWS Lambda to return the square of a number-  [ sample code for step 2](./GLU07-AWS100-SF-step2.py?raw=true)  
+* Create an AWS Lambda to add 2 numbers supplied as input -[ sample code for step 1](./GLU07-AWS200-SF-step1.py?raw=true)  
+* Create an AWS Lambda to return the square of a number-  [ sample code for step 2](./GLU07-AWS200-SF-step2.py?raw=true)  
 * Create a state machine to connect the above two Lambdas
 	* Go to the step  functions console click on create state machine , do not chnage the default settings.
-	* Copy [ this ](./GLU07-AWS100-SF-step2.py?raw=true) template to paste into Definition but carefully replace Lambda ARNs with the Lambdas created in above steps where necessary in the template. 
+	* Copy [ this ](./GLU07-AWS200-SF-step2.py?raw=true) template to paste into Definition but carefully replace Lambda ARNs with the Lambdas created in above steps where necessary in the template. 
 * Execute the state machine and verify the output.
 
 
