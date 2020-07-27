@@ -257,7 +257,7 @@ Messaging Systems are commonly used for Application Integration.
 | Project Code | Project Details | Difficulty | CSP   | Author(s) |
 | :----------- | :-------------- | :--------- | :---- | :-------- |
 | GLU02-AWS100 |                 | Level 100  | AWS   |           |
-| GLU02-AZ100  |                 | Level 100  | Azure |           |
+| GLU02-AZ200  |[Introduction to Azure Service Bus](Projects/GLU/GLU02/GLU02-AZ200.md)          | Level 200  | Azure |    [Gwyneth Pena S.](https://twitter.com/madebygps)           |
 | GLU02-GCP100 |                 | Level 100  | GCP   |           |
 
 ### **GLU03** — Streaming Service
