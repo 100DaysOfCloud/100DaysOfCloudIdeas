@@ -1,0 +1,18 @@
+#Copy this template as it to paste into state machine definition  
+
+Comment: A simple app with 2 states, one to add numbers and to get the square of the sum
+#this property specifies which below step to start the state machine at
+StartAt: step1_sum_of_2_numbers
+#this property is to define all the states in the state machine
+States:
+  step1_sum_of_2_numbers:
+    #this property specifies type of the task https://docs.aws.amazon.com/step-functions/latest/dg/amazon-states-language-task-state.html
+    Type: Task
+    #this property is used to specify the ARN of the Resource
+    Resource: REPLACE THIS STRING WITH STEP1 LAMBDA ARN
+    #this property is used to specify the next step from this current one
+    Next: step2_square_of_the_sum
+  step2_square_of_the_sum:
+    Type: Task
+    Resource: REPLACE THIS STRING WITH STEP2 LAMBDA ARN
+    End: true
