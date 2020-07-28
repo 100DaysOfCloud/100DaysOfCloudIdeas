@@ -16,7 +16,7 @@ Level 100 (Introductory)
 
 ###  You need to complete the following:
 
-* Create an IAM user (with Administrator Access) if you do not have one already
+* Create an IAM user with a programmatic access type (and Administrator Access) if you do not have one already
 * Install AWS CLI 
 * Configure AWS credentials locally: `aws configure` 
 * Create an S3 bucket: `aws s3 mb s3://<unique-bucket-name>`
@@ -26,7 +26,7 @@ Level 100 (Introductory)
 ###  You need to answer the following: 
 
 * How are permissions granted to IAM users?
-* What settings are created when configuring AWS locally and where are they stored? 
+* What credentials are created when configuring AWS locally and where are they stored? 
 * What is the difference between `s3` and `s3api` Commands?
   
 
@@ -38,3 +38,7 @@ Level 100 (Introductory)
 * [Install AWS CLI on Linux](https://docs.aws.amazon.com/cli/latest/userguide/install-cliv2-linux.html)
 * [Configure AWS locally](https://docs.aws.amazon.com/cli/latest/userguide/cli-configure-quickstart.html)
 * [Leveraging the s3 and s3api Commands](https://aws.amazon.com/blogs/developer/leveraging-the-s3-and-s3api-commands/)
+
+
+## Tips
+  - IAM users with programmatic access are given an *access key id* and *secret access key*. After creating a user a *Download.csv* file is generated that contains these values. Download and save the file to access them for setting up AWS locally.
