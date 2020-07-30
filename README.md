@@ -248,7 +248,7 @@ Messaging Systems are commonly used for Application Integration.
 
 | Project Code | Project Details | Difficulty | CSP   | Author(s) |
 | :----------- | :-------------- | :--------- | :---- | :-------- |
-| GLU01-AWS100 |                 | Level 100  | AWS   |           |
+| GLU01-AWS100 | [Introduction to SNS (Simple Notification Service)](Projects/GLU/GLU01/GLU01-AWS100.md)                | Level 100  | AWS   | [Edward Allen Mercado](https://twitter.com/edwardmercado_          |
 | GLU01-AZ100  | [Create an Azure Queue in the Portal](Projects/GLU/GLU01/GLU01-AZ100.md)                | Level 100  | Azure | [Gwyneth Pena S.](https://twitter.com/madebygps)          |
 | GLU01-GCP100 |                 | Level 100  | GCP   |           |
 
@@ -676,4 +676,5 @@ Serverless tech abstracts the need to care for the underlying infrastructure, gi
 - Chris Nagy [@chris_the_nagy](https://twitter.com/chris_the_nagy)
 - Johan Rin [@johanrin](https://twitter.com/johanrin)
 - Ariela [@ari_hacks](https://twitter.com/ari_hacks)
+- Edward Allen Mercado [@edwardmercado_](https://twitter.com/edwardmercado_)
 - Contribute a project to see your name added to the list!
