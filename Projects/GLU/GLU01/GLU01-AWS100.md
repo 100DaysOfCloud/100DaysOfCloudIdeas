@@ -14,24 +14,29 @@
 
 ### You need to complete the following:
 
-- Create a SNS Topic
-- Subscribe to a SNS Topic
-- Receive email notification from the SNS Topic created
+- Create an SNS topic
+- Subscribe to that SNS topic with an email adress of yours
+- Send a test message through the SNS topic
+- Make sure you received the message to your email adress
 
 ### You need to answer the following:
 
 - What is SNS?
 - How Pub/Sub notifications work?
 - What are the different endpoints that SNS can send notification?
+- What happens if a message in SNS can not be delivered?
+- What's the difference between SNS and SQS?
 
 ## References
 
 - [AWS SNS Official Documentation](https://docs.aws.amazon.com/sns/latest/dg/welcome.html)
+- [Setting Up Amazon SNS Notifications](https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/US_SetupSNS.html)
+- [Amazon SNS (from AWS) - The Ultimate Guide](https://www.serverless.com/amazon-sns)
+- [What is Amazon SES and SNS in AWS?](https://intellipaat.com/blog/what-is-amazon-ses-sns-in-aws/)
 
 ## Costs
 
 - Included in the Free Tier
-- As part of AWS’s Free Usage Tier, new AWS customers will receive free 15 GB of data transfer out each month aggregated across all AWS services for one year.
 
 ## Estimated time to complete
 
