@@ -248,7 +248,7 @@ Messaging Systems are commonly used for Application Integration.
 
 | Project Code | Project Details | Difficulty | CSP   | Author(s) |
 | :----------- | :-------------- | :--------- | :---- | :-------- |
-| GLU01-AWS100 | [Introduction to SNS (Simple Notification Service)](Projects/GLU/GLU01/GLU01-AWS100.md)                | Level 100  | AWS   | [Edward Allen Mercado](https://twitter.com/edwardmercado_)          |
+| GLU01-AWS100 |                 | Level 100  | AWS   |           |
 | GLU01-AZ100  | [Create an Azure Queue in the Portal](Projects/GLU/GLU01/GLU01-AZ100.md)                | Level 100  | Azure | [Gwyneth Pena S.](https://twitter.com/madebygps)          |
 | GLU01-GCP100 |                 | Level 100  | GCP   |           |
 
@@ -256,7 +256,7 @@ Messaging Systems are commonly used for Application Integration.
 
 | Project Code | Project Details | Difficulty | CSP   | Author(s) |
 | :----------- | :-------------- | :--------- | :---- | :-------- |
-| GLU02-AWS100 |                 | Level 100  | AWS   |           |
+| GLU02-AWS100 | [Introduction to SNS (Simple Notification Service)](Projects/GLU/GLU02/GLU02-AWS100.md) | Level 100  | AWS   | [Edward Allen Mercado](https://twitter.com/edwardmercado_) |
 | GLU02-AZ200  |[Introduction to Azure Service Bus](Projects/GLU/GLU02/GLU02-AZ200.md)          | Level 200  | Azure |    [Gwyneth Pena S.](https://twitter.com/madebygps)           |
 | GLU02-GCP100 |                 | Level 100  | GCP   |           |
 
