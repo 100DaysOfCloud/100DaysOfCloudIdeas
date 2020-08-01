@@ -15,15 +15,16 @@
 ### You need to complete the following:
 
 - Create an SNS topic
-- Subscribe to that SNS topic with an email adress of yours
+- Subscribe to that SNS topic with an email address of yours
+- Make sure to accept the subscription in the email you receive
 - Send a test message through the SNS topic
 - Make sure you received the message to your email address
 
 ### You need to answer the following:
 
 - What is Simple Notification Service (SNS)?
-- How do Pub/Sub notification work?
-- What are the different endpoints that SNS can send notification?
+- How do Pub/Sub notifications work?
+- What are the different endpoints that SNS can send notifications to?
 - What happens if a message or notification in SNS cannot be delivered?
 - What's the difference between Simple Notification Service (SNS) and Simple Queue Service (SQS)?
 
