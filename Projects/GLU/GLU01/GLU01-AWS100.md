@@ -17,17 +17,17 @@
 - Create an SNS topic
 - Subscribe to that SNS topic with an email adress of yours
 - Send a test message through the SNS topic
-- Make sure you received the message to your email adress
+- Make sure you received the message to your email address
 
 ### You need to answer the following:
 
-- What is SNS?
-- How Pub/Sub notifications work?
+- What is Simple Notification Service (SNS)?
+- How do Pub/Sub notification work?
 - What are the different endpoints that SNS can send notification?
-- What happens if a message in SNS can not be delivered?
-- What's the difference between SNS and SQS?
+- What happens if a message or notification in SNS cannot be delivered?
+- What's the difference between Simple Notification Service (SNS) and Simple Queue Service (SQS)?
 
-## References
+## Reference
 
 - [AWS SNS Official Documentation](https://docs.aws.amazon.com/sns/latest/dg/welcome.html)
 - [Setting Up Amazon SNS Notifications](https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/US_SetupSNS.html)
