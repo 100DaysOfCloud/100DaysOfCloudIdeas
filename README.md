@@ -471,7 +471,7 @@ Serverless tech abstracts the need to care for the underlying infrastructure, gi
 
 | Project Code | Project Details | Difficulty | CSP   | Author(s) |
 | :----------- | :-------------- | :--------- | :---- | :-------- |
-| DBS03-AWS100 |                 | Level 100  | AWS   |           |
+| DBS03-AWS100 | [Creating an Amazon RDS DB Instance (MS SQL Server)](Projects\DBS\DBS03\DBS03-AWS100.md)                | Level 100  | AWS   |[Jagan](https://twitter.com/JAG2wt)           |
 | DBS03-AZ100  |                 | Level 100  | Azure |           |
 | DBS03-GCP100 |                 | Level 100  | GCP   |           |
 
@@ -677,4 +677,5 @@ Serverless tech abstracts the need to care for the underlying infrastructure, gi
 - Johan Rin [@johanrin](https://twitter.com/johanrin)
 - Ariela [@ari_hacks](https://twitter.com/ari_hacks)
 - Edward Allen Mercado [@edwardmercado_](https://twitter.com/edwardmercado_)
+- Jagan [@JAG2wt](https://twitter.com/JAG2wt)
 - Contribute a project to see your name added to the list!
