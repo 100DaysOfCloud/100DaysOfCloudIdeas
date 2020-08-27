@@ -1,4 +1,4 @@
-# COPS01-AWS300 - Deploy a VPC with Terraform
+# OPS01-AWS300 - Deploy a VPC with Terraform
 
 
 ## Cloud Service Provider
