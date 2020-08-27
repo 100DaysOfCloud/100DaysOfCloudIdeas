@@ -548,7 +548,7 @@ Serverless tech abstracts the need to care for the underlying infrastructure, gi
 | Project Code | Project Details                                                         | Difficulty | CSP   | Author(s)                                        |
 | :----------- | :---------------------------------------------------------------------- | :--------- | :---- | :----------------------------------------------- |
 | OPS01-AWS100 | [Deploy a CloudFormation template from the AWS Console](Projects/OPS/OPS01/OPS01-AWS100.md) | Level 100 | AWS | [Syed Auther](https://twitter.com/syedauther)<br>[Chris Nagy](https://twitter.com/chris_the_nagy) |
-| OPS01-AWS300 | [Deploy a VPC with Terraform](Projects/OPS/OPS01/OPS01-AWS300.md) | Level 100 | AWS | [Markus Mabson ](https://www.linkedin.com/in/markus-mabson-86917a133/) |
+| OPS01-AWS300 | [Deploy a VPC with Terraform](Projects/OPS/OPS01/OPS01-AWS300.md) | Level 300 | AWS | [Markus Mabson ](https://www.linkedin.com/in/markus-mabson-86917a133/) |
 | OPS01-AZ100  | [Deploy an ARM template](projects/../Projects/OPS/OPS01/OPS01-AZ100.md) | Level 100  | Azure | [Gwyneth Peña S.](https://twitter.com/madebygps) |
 | OPS01-GCP100 |                                                                         | Level 100  | GCP   |                                                  |
 
