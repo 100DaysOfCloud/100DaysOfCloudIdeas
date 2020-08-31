@@ -28,7 +28,7 @@
 - Do you need an internet gateway? If so, for which route table?
 - What kind of database is Aurora?
 - What is the minimum storage for Aurora?
-- How many copies of your data is automatically maintained?
+- How many copies of your data are automatically maintained?
 - Can you encrypt an Aurora VPC?
 - What are the 4 types of Aurora Endpoints?
 
