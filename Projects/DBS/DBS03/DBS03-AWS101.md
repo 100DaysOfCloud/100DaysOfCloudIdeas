@@ -22,34 +22,24 @@
 
 
 ### You need to answer the following:
-- How do you create VPCs
-- What data types can you store in a DynamoDB table?
-- What is the maximum size of an item in DynamoDB?
-- What capacity modes are available for DynamoDB?
-- What are Write Capacity and Read Capacity Units (WCU/RCU)?
-- What is the size of a single WCU and RCU?
-- How does DynamoDB support autoscaling?
-- Does DynamoDB support encryption?
-- Which key type is required for creating a table?
-- Which three data types does the Primary Key support?
-- What is the difference between a Primary (Hash) Key and a Secondary (Sort) Key?
-- What is a DynamoDB Stream?
-- What are Global Tables?
-- How do backups work in DynamoDB?
-- Can DynamoDB be performant at-scale?
+- How do you create additional subnets?
+- Why do you need a security group?
+- What does a route table do?
+- Do you need an internet gateway? If so, for which route table?
+- What kind of database is Aurora?
+- What is the minimum storage for Aurora?
+- How many copies of your data is automatically maintained?
+- Can you encrypt an Aurora VPC?
+- What are the 4 types of Aurora Endpoints?
 
 
 ## References
-- [AWS Create and Query a NoSQL Table](https://aws.amazon.com/getting-started/hands-on/create-nosql-table/)
-- [DynamoDB FAQs](https://aws.amazon.com/dynamodb/faqs/)
+- [AWS Create a DB Instance](https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/CHAP_Tutorials.WebServerDB.CreateDBInstance.html)
+- [RDS FAQs](https://aws.amazon.com/rds/faqs/)
 
 ## Costs
-- 25GB of storage is included in the free tier
-- 25 WCUs/RCUs are included in the free tier
+- 750hrs of RDS included in the free tier
+- db.t2.micro Instance included in the free tier
 
 ## Estimated time to complete
-- 30 minutes
-
-## Tips
-- Use numbers as your Primary Keys for this getting started project.
-- Do not use a sort key for this project.
+- 60 minutes
