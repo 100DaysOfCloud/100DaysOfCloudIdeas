@@ -43,7 +43,7 @@
 
 ## Costs
 - Amazon Aurora is not included in the free tier
-- An Aurora database running on a db.r5.large instance [will cost $0.29 per hour](https://aws.amazon.com/rds/aurora/pricing/)
+- An Aurora database running on the (cheapest) db.r5.large instance [will cost $0.29 per hour](https://aws.amazon.com/rds/aurora/pricing/)
 
 ## Estimated time to complete
 - 60 minutes
