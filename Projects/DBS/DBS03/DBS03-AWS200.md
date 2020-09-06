@@ -7,7 +7,7 @@
 - Level 200 (Intermediate)
 
 ## Project's Author(s)
-[Nathan Cho](https://twitter.com/hatchcanon)
+- [Nathan Cho](https://twitter.com/hatchcanon)
 
 ## Objectives
 
