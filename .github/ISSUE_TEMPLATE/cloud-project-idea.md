@@ -15,6 +15,7 @@ assignees: ''
   - `PROVIDER` is AWS, AZ, GCP, OTH(other, please use an abbreviation)
   - `100` is both the level of difficulty as well as a unique ID of the project. (100,101,102 - see already existing projects)
   - `TITLE` is the title of the project. Be brief but informative.
+- Please make sure that the `TITLE` is in imperative present tense, eg. _"Use RDS...", "Set up Azure Functions...", "Launch a webserver...", "Create a K8s cluster..."_.
 
 ### Choose the Cloud Service Provider (Please only choose one, unless its multi-cloud, delete the remaining)
 - Amazon Web Services
