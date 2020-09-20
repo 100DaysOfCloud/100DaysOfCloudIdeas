@@ -489,7 +489,7 @@ Serverless tech abstracts the need to care for the underlying infrastructure, gi
 | Project Code | Project Details                                               | Difficulty | CSP   | Author(s)                                        |
 | :----------- | :------------------------------------------------------------ | :--------- | :---- | :----------------------------------------------- |
 | DBS05-AWS100 | [Create a DynamoDB table](Projects/DBS/DBS05/DBS05-AWS100.md) | Level 100  | AWS   | [Chris Nagy](https://twitter.com/chris_the_nagy) |
-| DBS05-AZ100  |                                                               | Level 100  | Azure |                                                  |
+| DBS05-AZ100  | [Creating a Microsoft Azure Cosmos Db (SQL API)](Projects/DBS/DBS05-AZ100.md) | Level 100  | Azure | [Edward Haigh](https://twitter.com/EddyHaigh)                                                 |
 | DBS05-GCP100 |                                                               | Level 100  | GCP   |                                                  |
 
 ### **DBS06** — Graph Database
