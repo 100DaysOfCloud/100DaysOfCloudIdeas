@@ -39,7 +39,7 @@
 ## Costs
 
 - Included in the Free Tier
-
+- 750 hours of Amazon RDS Single-AZ `db.t2.micro` included in free tier
 
 ## Estimated time to complete
 - 45-60 minutes
@@ -47,7 +47,7 @@
 
 ## Tips
 - Having database knowledge is an added advantage
-- 750 hours of Amazon RDS Single-AZ `db.t2.micro` included in free tier
+
 
 
 
