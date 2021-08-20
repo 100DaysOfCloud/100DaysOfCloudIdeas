@@ -104,11 +104,11 @@ These are larger projects that use multiple cloud services.
 
 ### **SEC01** — Hardware Security Modules (HSM)
 
-| Project Code | Project Details                                                                      | Difficulty | CSP   | Author(s)                                        |
-| :----------- | :----------------------------------------------------------------------------------- | :--------- | :---- | :----------------------------------------------- |
-| SEC01-AWS200 | [Create a new CMK in KMS and encrypt an object](Projects/SEC/SEC01/SEC01-AWS200.md)  | Level 200  | AWS   | [Andrew Brown](https://twitter.com/andrewbrown)  |
+| Project Code | Project Details                                              | Difficulty | CSP   | Author(s)                                        |
+| :----------- | :----------------------------------------------------------- | :--------- | :---- | :----------------------------------------------- |
+| SEC01-AWS200 | [Create a new CMK in KMS and encrypt an object](Projects/SEC/SEC01/SEC01-AWS200.md) | Level 200  | AWS   | [Andrew Brown](https://twitter.com/andrewbrown)  |
 | SEC01-AZ200  | [Configure and manage secrets in Azure Key Vault](Projects/SEC/SEC01/SEC01-AZ200.md) | Level 200  | Azure | [Gwyneth Peña S.](https://twitter.com/madebygps) |
-| SEC01-GCP100 |                                                                                      | Level 100  | GCP   |                                                  |
+| SEC01-GCP100 | [Create and Use HSM-Protected Encryption Keys](Projects/SEC/SEC01/SEC01-GCP100.md) | Level 100  | GCP   | [Saran Mahadev](https://github.com/saranmahadev) |
 
 ### **SEC02** — Configuration and Remediation Service
 
