@@ -237,7 +237,7 @@ This micro-project is all about controlling your spending.
 | :----------- | :----------------------------------------------------------- | :--------- | :---- | :----------------------------------------------- |
 | BIL02-AWS100 | [Create a Cost Budget](Projects/BIL/BIL02/BIL02-AWS100.md)   | Level 100  | AWS   | [Ariela](https://twitter.com/ari_hacks)          |
 | BIL02-AZ100  | [Create budgets](Projects/BIL/BIL02/BIL02-AZ100.md)          | Level 100  | Azure | [Gwyneth Peña S.](https://twitter.com/madebygps) |
-| BIL02-GCP100 | [Limit BigQuery query usage using Quotas](Projects/BIL/BIL02/BIL02-AZ100.md) | Level 100  | GCP   | [Saran Mahadev](https://github.com/saranmahadev) |
+| BIL02-GCP100 | [Limit BigQuery query usage using Quotas](Projects/BIL/BIL02/BIL02-GCP100.md) | Level 100  | GCP   | [Saran Mahadev](https://github.com/saranmahadev) |
 
 ## 🩹 GLU — Application Integration
 
