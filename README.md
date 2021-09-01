@@ -128,11 +128,11 @@ These are larger projects that use multiple cloud services.
 
 ### **SEC04** — Manage Identities
 
-| Project Code | Project Details                                                | Difficulty | CSP   | Author(s)                                     |
-| :----------- | :------------------------------------------------------------- | :--------- | :---- | :-------------------------------------------- |
-| SEC04-AWS100 | [Create an IAM user](Projects/SEC/SEC04/SEC04-AWS100.md)       | Level 100  | AWS   | [Syed Auther](https://twitter.com/syedauther) |
-| SEC04-AZ100  | [Create a user in Azure AD](Projects/SEC/SEC04/SEC04-AZ100.md) | Level 100  | Azure | [Gwyneth Peña S.](twitter.com/madebygps)      |
-| SEC04-GCP100 |                                                                | Level 100  | GCP   |                                               |
+| Project Code | Project Details                                              | Difficulty | CSP   | Author(s)                                         |
+| :----------- | :----------------------------------------------------------- | :--------- | :---- | :------------------------------------------------ |
+| SEC04-AWS100 | [Create an IAM user](Projects/SEC/SEC04/SEC04-AWS100.md)     | Level 100  | AWS   | [Syed Auther](https://twitter.com/syedauther)     |
+| SEC04-AZ100  | [Create a user in Azure AD](Projects/SEC/SEC04/SEC04-AZ100.md) | Level 100  | Azure | [Gwyneth Peña S.](twitter.com/madebygps)          |
+| SEC04-GCP100 | [Create an IAM user](Projects/SEC/SEC04/SEC04-GCP100.md)     | Level 100  | GCP   | [Saran Mahadev ](https://github.com/saranmahadev) |
 
 ### **SEC05** — Identity Federation
 
@@ -167,7 +167,7 @@ These are larger projects that use multiple cloud services.
 | COM03-AWS100 | [Launch a Hello World website on the internet](Projects/COM/COM03/COM03-AWS100.md) | Level 100  | AWS   | [Syed Auther](https://twitter.com/syedauther)    |
 | COM03-AWS200 | [Create an Auto Scaling Group](Projects/COM/COM03/COM03-AWS200.md)                 | Level 200  | AWS   | [Chris Nagy](https://twitter.com/chris_the_nagy) |
 | COM03-AZ100|   [Introduction to Azure virtual machines](Projects/COM/COM03/COM03-AZ100.md)                                                                                 | Level 100  | Azure |  [Gwyneth Peña S.](twitter.com/madebygps)                                                |
-| COM03-GCP100 |                                                                                    | Level 100  | GCP   |                                                  |
+| COM03-GCP100 | [Deploy a Weather website to the Internet](Projects/COM/COM03/COM03-GCP100.md) | Level 100  | GCP   | [Saran Mahadev](https://github.com/saranmahadev) |
 
 ### **COM04** - Containers
 
@@ -211,7 +211,7 @@ These are larger projects that use multiple cloud services.
 | :----------- | :------------------------------------------------------------------------------------------------------------------- | :--------- | :---- | :------------------------------------------------------ |
 | NET04-AWS100 | [Host a simple static webpage with S3 and CloudFront](Project/net/net04/../../../Projects/NET/NET04/NET04-AWS100.md) | Level 100  | AWS   | [Antonio Lo Fiego](https://twitter.com/antonio_lofiego) |
 | NET04-AZ100 |[Azure CDN and Blob Services](Project/net/net04/../../../Projects/NET/NET04/NET04-AZ200.md)                                                                                                                      | Level 200  | Azure | [Gwyneth Peña S.](https://twitter.com/madebygps)                                                          |
-| NET04-GCP100 |                                                                                                                      | Level 100  | GCP   |                                                         |
+| NET04-GCP200 | [Create a Load Balancer for a File in Cloud Storage with Cloud CDN](D:\Projects\Contribution\Projects\NET\NET04\NET04-GCP100.md) | Level 200 | GCP   | [Saran Mahadev](https://github.com/saranmahadev) |
 
 ## 🧾 BIL — Cloud Billing and Pricing
 
@@ -233,11 +233,11 @@ This micro-project is all about controlling your spending.
 
 > ⭐ BIL02 is recommended as a good first-time project
 
-| Project Code | Project Details                                     | Difficulty | CSP   | Author(s)                                        |
-| :----------- | :-------------------------------------------------- | :--------- | :---- | :----------------------------------------------- |
-| BIL02-AWS100 |   [Create a Cost Budget](Projects/BIL/BIL02/BIL02-AWS100.md)                                                  | Level 100  | AWS   |                                      [Ariela](https://twitter.com/ari_hacks)            |
-| BIL02-AZ100  | [Create budgets](Projects/BIL/BIL02/BIL02-AZ100.md) | Level 100  | Azure | [Gwyneth Peña S.](https://twitter.com/madebygps) |
-| BIL02-GCP100 |                                                     | Level 100  | GCP   |                                                  |
+| Project Code | Project Details                                              | Difficulty | CSP   | Author(s)                                        |
+| :----------- | :----------------------------------------------------------- | :--------- | :---- | :----------------------------------------------- |
+| BIL02-AWS100 | [Create a Cost Budget](Projects/BIL/BIL02/BIL02-AWS100.md)   | Level 100  | AWS   | [Ariela](https://twitter.com/ari_hacks)          |
+| BIL02-AZ100  | [Create budgets](Projects/BIL/BIL02/BIL02-AZ100.md)          | Level 100  | Azure | [Gwyneth Peña S.](https://twitter.com/madebygps) |
+| BIL02-GCP100 | [Limit BigQuery query usage using Quotas](Projects/BIL/BIL02/BIL02-AZ100.md) | Level 100  | GCP   | [Saran Mahadev](https://github.com/saranmahadev) |
 
 ## 🩹 GLU — Application Integration
 
@@ -254,11 +254,11 @@ Messaging Systems are commonly used for Application Integration.
 
 ### **GLU02** — Pub/Sub Messaging Service
 
-| Project Code | Project Details | Difficulty | CSP   | Author(s) |
-| :----------- | :-------------- | :--------- | :---- | :-------- |
+| Project Code | Project Details                                              | Difficulty | CSP   | Author(s)                                                  |
+| :----------- | :----------------------------------------------------------- | :--------- | :---- | :--------------------------------------------------------- |
 | GLU02-AWS100 | [Introduction to SNS (Simple Notification Service)](Projects/GLU/GLU02/GLU02-AWS100.md) | Level 100  | AWS   | [Edward Allen Mercado](https://twitter.com/edwardmercado_) |
-| GLU02-AZ200  |[Introduction to Azure Service Bus](Projects/GLU/GLU02/GLU02-AZ200.md)          | Level 200  | Azure |    [Gwyneth Pena S.](https://twitter.com/madebygps)           |
-| GLU02-GCP100 |                 | Level 100  | GCP   |           |
+| GLU02-AZ200  | [Introduction to Azure Service Bus](Projects/GLU/GLU02/GLU02-AZ200.md) | Level 200  | Azure | [Gwyneth Pena S.](https://twitter.com/madebygps)           |
+| GLU02-GCP100 | [Introduction to Cloud Pub/Sub](Projects/GLU/GLU02/GLU02-GCP100.md) | Level 100  | GCP   | [Saran Mahadev](https://github.com/saranmahadev)           |
 
 ### **GLU03** — Streaming Service
 
@@ -306,12 +306,12 @@ Serverless tech abstracts the need to care for the underlying infrastructure, gi
 
 ### **LES01** — Serverless Functions
 
-| Project Code | Project Details                                                        | Difficulty | CSP   | Author(s)                                     |
-| :----------- | :--------------------------------------------------------------------- | :--------- | :---- | :-------------------------------------------- |
-| LES01-AWS100 | [Create a Lambda to add 2 numbers](Projects/LES/LES01/LES01-AWS100.md) | Level 100  | AWS   | [Syed Auther](https://twitter.com/syedauther) |
-| LES01-AWS200 | [Create a simple serverless API](Projects/LES/LES01/LES01-AWS200.md)   | Level 200  | AWS   | [Syed Auther](https://twitter.com/syedauther) |
-| LES01-AZ200  |    [Create an Azure Function in the Azure Portal](Projects/LES/LES01/LES01-AZ200.md)                                                                     | Level 200  | Azure |   [Gwyneth Pena S.](https://twitter.com/madebygps)                                            |
-| LES01-GCP100 |                                                                        | Level 100  | GCP   |                                               |
+| Project Code | Project Details                                              | Difficulty | CSP   | Author(s)                                        |
+| :----------- | :----------------------------------------------------------- | :--------- | :---- | :----------------------------------------------- |
+| LES01-AWS100 | [Create a Lambda to add 2 numbers](Projects/LES/LES01/LES01-AWS100.md) | Level 100  | AWS   | [Syed Auther](https://twitter.com/syedauther)    |
+| LES01-AWS200 | [Create a simple serverless API](Projects/LES/LES01/LES01-AWS200.md) | Level 200  | AWS   | [Syed Auther](https://twitter.com/syedauther)    |
+| LES01-AZ200  | [Create an Azure Function in the Azure Portal](Projects/LES/LES01/LES01-AZ200.md) | Level 200  | Azure | [Gwyneth Pena S.](https://twitter.com/madebygps) |
+| LES01-GCP100 |                                                              | Level 100  | GCP   |                                                  |
 
 ### **LES02** — Serverless Containers
 

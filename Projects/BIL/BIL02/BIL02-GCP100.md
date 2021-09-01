@@ -1,4 +1,4 @@
-# BIL01-GCP100 — Create three Budget Alerts
+# BIL01-GCP100 — Limit BigQuery query usage using Quotas
 
 ## Cloud Service Provider
 
@@ -8,21 +8,21 @@
 Level 100 (Introductory)
 
 ## Project's Author(s)
-* [Andrew Brown](https://twitter.com/andrewbrown)
+* [Saran Mahadev](https://github.com/saranmahadev)
 
 ## Objectives
 
-###  You need to answer the following: 
+* Select your Project 
 
-* Create a Budget alerts for $5
-* Create a Budget alerts for $25
-* Create a Budget alerts for $100
+* Use Quotas and limit the BigQuery API query usage to 1TB
+
+  [By Default - Unlimited query usage]
 
 ### You need to answer the following: 
 
-* What is the cost for creating Budget Alerts?
-* When a Budget alert is triggered how will you know?
+* What is Quotas?
+* How to limit the usage of services using Quotas?
 
 ## References
 
-* [Set budgets and budget alerts](https://cloud.google.com/billing/docs/how-to/budgets)
+* https://cloud.google.com/bigquery/quotas
