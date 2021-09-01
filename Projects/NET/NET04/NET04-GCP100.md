@@ -18,9 +18,9 @@
 ### You need to complete the following:
 
 - Create a Cloud Storage and upload these three images to the bucket and make sure to make them public.
-	![Alan Turing](JPG\alan-turing.jpg)
-	![einstein](JPG\einstein.jpg)
-	![stephen-hawking](JPG\stephen-hawking.jpg)
+	![Alan Turing](JPG/alan-turing.jpg)
+	![einstein](JPG/einstein.jpg)
+	![stephen-hawking](JPG/stephen-hawking.jpg)
 - Create a Load Balancer named 100daysofcloud-lb and enable CDN which should have a maximum client time of 1 min to live.
 
 - After the ensuring the deployment, make sure to verify the working of CDN using curl.
