@@ -211,7 +211,7 @@ These are larger projects that use multiple cloud services.
 | :----------- | :------------------------------------------------------------------------------------------------------------------- | :--------- | :---- | :------------------------------------------------------ |
 | NET04-AWS100 | [Host a simple static webpage with S3 and CloudFront](Project/net/net04/../../../Projects/NET/NET04/NET04-AWS100.md) | Level 100  | AWS   | [Antonio Lo Fiego](https://twitter.com/antonio_lofiego) |
 | NET04-AZ100 |[Azure CDN and Blob Services](Project/net/net04/../../../Projects/NET/NET04/NET04-AZ200.md)                                                                                                                      | Level 200  | Azure | [Gwyneth Peña S.](https://twitter.com/madebygps)                                                          |
-| NET04-GCP200 | [Create a Load Balancer for a File in Cloud Storage with Cloud CDN](Projects\NET\NET04\NET04-GCP100.md) | Level 200 | GCP   | [Saran Mahadev](https://github.com/saranmahadev) |
+| NET04-GCP200 | [Create a Load Balancer for a File in Cloud Storage with Cloud CDN](Projects/NET/NET04/NET04-GCP100.md) | Level 200 | GCP   | [Saran Mahadev](https://github.com/saranmahadev) |
 
 ## 🧾 BIL — Cloud Billing and Pricing
 
