@@ -1,4 +1,4 @@
-# COM04-GCP100 - Push a Docker Image to  Container Registry
+# COM04-GCP100 - Push a Docker Image to  GCP Container Registry
 
 
 ## Cloud Service Provider
