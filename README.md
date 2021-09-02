@@ -311,7 +311,7 @@ Serverless tech abstracts the need to care for the underlying infrastructure, gi
 | LES01-AWS100 | [Create a Lambda to add 2 numbers](Projects/LES/LES01/LES01-AWS100.md) | Level 100  | AWS   | [Syed Auther](https://twitter.com/syedauther)    |
 | LES01-AWS200 | [Create a simple serverless API](Projects/LES/LES01/LES01-AWS200.md) | Level 200  | AWS   | [Syed Auther](https://twitter.com/syedauther)    |
 | LES01-AZ200  | [Create an Azure Function in the Azure Portal](Projects/LES/LES01/LES01-AZ200.md) | Level 200  | Azure | [Gwyneth Pena S.](https://twitter.com/madebygps) |
-| LES01-GCP100 |                                                              | Level 100  | GCP   |                                                  |
+| LES01-GCP100 | [Create a HTTP Function in Cloud Functions](Projects/LES/LES01/LES01-GCP100.md) | Level 100  | GCP   | [Saran Mahadev](https://github.com/saranmahadev) |
 
 ### **LES02** — Serverless Containers
 
