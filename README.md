@@ -176,7 +176,7 @@ These are larger projects that use multiple cloud services.
 | COM04-AWS100 | [Push a Docker image to Amazon ECR repository](Projects/COM/COM04/COM04-AWS100.md) | Level 100  | AWS   | [Johan Rin](https://twitter.com/johanrin)          |
 | COM04-AWS200 | [Deploy a Docker container image on AWS Fargate](Projects/COM/COM04/COM04-AWS200.md) | Level 200  | AWS   | [Johan Rin](https://twitter.com/johanrin)          |
 | COM04-AWS400 | [Create a cluster of virtual machines using docker swarm](Projects/COM/COM04/COM04-AWS400.md) | Level 400  | AWS   | [Karan Gauswami](https://github.com/KaranGauswami) |
-| COM04-AZ100  |                                                              | Level 100  | Azure |                                                    |
+| COM04-AZ100  | [Push a Docker image to Amazon ECR repository](Projects/COM/COM04/COM04-AZ100.md) | Level 100  | Azure | [Saran Mahadev](https://github.com/saranmahadev)   |
 | COM04-GCP100 | [Push a Docker Image to  Container Registry](Projects/COM/COM04/COM04-GCP100.md) | Level 100  | GCP   | [Saran Mahadev](https://github.com/saranmahadev)   |
 
 ## 🌐 NET — Cloud Networking
