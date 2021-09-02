@@ -529,11 +529,11 @@ Serverless tech abstracts the need to care for the underlying infrastructure, gi
 
 ### **DEV03** - Command Line Interfaces (CLI)
 
-| Project Code | Project Details | Difficulty | CSP   | Author(s) |
-| :----------- | :-------------- | :--------- | :---- | :-------- |
-| DEV03-AWS100 | [Install & Configure AWS CLI then create an S3 Bucket](/Projects/DEV/DEV03/DEV03-AWS100.md)               | Level 100  | AWS   |    [Ariela](https://twitter.com/ari_hacks)       |
-| DEV03-AZ100  |                 | Level 100  | Azure |           |
-| DEV03-GCP100 |                 | Level 100  | GCP   |           |
+| Project Code | Project Details                                              | Difficulty | CSP   | Author(s)                                        |
+| :----------- | :----------------------------------------------------------- | :--------- | :---- | :----------------------------------------------- |
+| DEV03-AWS100 | [Install & Configure AWS CLI then create an S3 Bucket](/Projects/DEV/DEV03/DEV03-AWS100.md) | Level 100  | AWS   | [Ariela](https://twitter.com/ari_hacks)          |
+| DEV03-AZ100  | [Deploy a Flask App to App Services using Azure CLI](/Projects/DEV/DEV03/DEV03-AZ100.md) | Level 100  | Azure | [Saran Mahadev](https://github.com/saranmahadev) |
+| DEV03-GCP100 |                                                              | Level 100  | GCP   |                                                  |
 
 ### **DEV04** - Software Development Kit (SDK)
 
