@@ -19,7 +19,7 @@
 
 - Create an Basic VM Instance in Compute
 - Make sure to enable the Ports for http/https for the website and ssh to work with the instance
-- Get the Basic website code from [here](https://github.com/saranmahadev/getweather) and place it infront of NGINX
+- Get the Basic website code from [here](https://gist.github.com/saranmahadev/59c23a06b4eeb8b137fb4daa9f3338a3) and place it infront of NGINX
 - Verify the deployment
 
 ### You need to answer the following:
